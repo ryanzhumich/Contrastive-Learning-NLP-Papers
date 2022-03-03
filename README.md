@@ -4,15 +4,17 @@
 
 ## Tutorial and Survey
 
+* **Contrastive Data and Learning for Natural Language Processing** *Rui Zhang, Yangfeng Ji, Yue Zhang, Rebecca J. Passonneau* `NAACL 2022 Tutotrial` [[website]](https://contrastive-nlp-tutorial.github.io/)
+
 * **A Primer on Contrastive Pretraining in Language Processing: Methods, Lessons Learned and Perspectives** *Nils Rethmeier, Isabelle Augenstein* [[pdf]](https://arxiv.org/abs/2102.12982)
 
 ## Presentations and Blogs
 
-* **Contrastive Representation Learning in Text** *Danqi Chen* [[slide]](https://cds.nyu.edu/wp-content/uploads/2021/11/TaD-Slides-Danqi-Chen-compressed.pdf) ![](https://img.shields.io/badge/-presentations-brightgreen)
+* **Contrastive Representation Learning in Text** *Danqi Chen* [[slide]](https://cds.nyu.edu/wp-content/uploads/2021/11/TaD-Slides-Danqi-Chen-compressed.pdf)
 
-* **Contrastive pairs are better than independent samples, for both learning and evaluation** *Matt Gardner* [[video]](https://drive.google.com/file/d/1DWMDeUzy9m0Z5a1gzQm4I78ZEQp8gyhm/view) ![](https://img.shields.io/badge/-presentations-brightgreen)
+* **Contrastive pairs are better than independent samples, for both learning and evaluation** *Matt Gardner* [[video]](https://drive.google.com/file/d/1DWMDeUzy9m0Z5a1gzQm4I78ZEQp8gyhm/view)
 
-* **Contrastive Representation Learning** *Lilian Weng* [[blog]](https://lilianweng.github.io/posts/2021-05-31-contrastive/) ![](https://img.shields.io/badge/-blog-red)
+* **Contrastive Representation Learning** *Lilian Weng* [[blog]](https://lilianweng.github.io/posts/2021-05-31-contrastive/)
 
 ## Theory and Analysis of Contrastive Learning
 
