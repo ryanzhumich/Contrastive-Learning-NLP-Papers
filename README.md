@@ -18,14 +18,57 @@
 
 * **Phrase Retrieval and Beyond** *Jinhyuk Lee* [[blog]](https://princeton-nlp.github.io/phrase-retrieval-and-beyond/)
 
-## Theory and Analysis of Contrastive Learning
+## Foundations of Contrastive Learning
 
-1. **Contrastive Estimation: Training Log-Linear Models on Unlabeled Data** *Noah A. Smith, Jason Eisner* `ACL 2005` [[pdf]](https://aclanthology.org/P05-1044.pdf)
+### Contrastive Learning Objectives
+1. **Learning a similarity metric discriminatively, with application to face verification** *Sumit Chopra, Raia Hadsell, Yann LeCun* `CVPR 2005` [[pdf]](https://ieeexplore.ieee.org/abstract/document/1467314)
+
+1. **Facenet: A unified embedding for face recognition and clustering** *Florian Schroff, Dmitry Kalenichenko, and James Philbin* `CVPR 2015` [[pdf]](https://arxiv.org/abs/1503.03832)
+
+1. **Deep metric learning via lifted structured feature embedding** *Hyun Oh Song, Yu Xiang, Stefanie Jegelka, Silvio Savarese* `CVPR 2016` [[pdf]](https://arxiv.org/abs/1511.06452)
+
+1. **Improved deep metric learning with multi-class n-pair loss objective** *Kihyuk Sohn* `NeurIPS 2016` [[pdf]](https://papers.nips.cc/paper/2016/file/6b180037abbebea991d8b1232f8a8ca9-Paper.pdf)
+
+1. **Noise-contrastive estimation: A new estimation principle for unnormalized statistical models** *Michael Gutmann and Aapo Hyvärinen* `AISTATS 2010` [[pdf]](https://proceedings.mlr.press/v9/gutmann10a/gutmann10a.pdf)
+
+1. **Representation learning with contrastive predictive coding** *Aaron van den Oord, Yazhe Li, Oriol Vinyals* `arXiv` [[pdf]](https://arxiv.org/abs/1807.03748)
+
+1. **Learning a nonlinear embedding by preserving class neighbourhood structure** *Ruslan Salakhutdinov, Geoff Hinton* `AISTATS 2007` [[pdf]](http://proceedings.mlr.press/v2/salakhutdinov07a/salakhutdinov07a.pdf)
+
+1. **Analyzing and improving representations with the soft nearest neighbor loss** *Nicholas Frosst, Nicolas Papernot, Geoffrey Hinton* `ICML 2019` [[pdf]](http://proceedings.mlr.press/v97/frosst19a/frosst19a.pdf)
+
+### Sampling Strategy for Contrastive Learning 
+1. **Debiased Contrastive Learning** *Ching-Yao Chuang, Joshua Robinson, Lin Yen-Chen, Antonio Torralba, Stefanie Jegelka* `NeurIPS 2020` [[pdf]](https://arxiv.org/abs/2007.00224)
+
+1. **Contrastive Learning with Hard Negative Samples** *Joshua Robinson, Ching-Yao Chuang, Suvrit Sra, Stefanie Jegelka* `ICLR 2021` [[pdf]](https://arxiv.org/abs/2010.04592)
+
+1. **Supervised Contrastive Learning** *Prannay Khosla, Piotr Teterwak, Chen Wang, Aaron Sarna, Yonglong Tian, Phillip Isola, Aaron Maschinot, Ce Liu, Dilip Krishnan* `NeurIPS 2020` [[pdf]](https://arxiv.org/abs/2004.11362)
+
+1. **Adversarial Self-Supervised Contrastive Learning** *Minseon Kim, Jihoon Tack, Sung Ju Hwang* `NeurIPS 2020` [[pdf]](https://arxiv.org/abs/2006.07589) [[code]](https://github.com/Kim-Minseon/RoCL)
+
+### Most Notable Applications of Contrastive Learning 
+1. **Efficient Estimation of Word Representations in Vector Space** *Tomas Mikolov, Kai Chen, Greg Corrado, Jeffrey Dean* `arXiv` [[pdf]](https://arxiv.org/abs/1301.3781)
+
+1. **A Simple Framework for Contrastive Learning of Visual Representations** *Ting Chen, Simon Kornblith, Mohammad Norouzi, Geoffrey Hinton* `ICML 2020` [[pdf]](https://arxiv.org/abs/2002.05709) [[code]](https://github.com/google-research/simclr)
+
+1. **Learning Transferable Visual Models From Natural Language Supervision** *Alec Radford, Jong Wook Kim, Chris Hallacy, Aditya Ramesh, Gabriel Goh, Sandhini Agarwal, Girish Sastry, Amanda Askell, Pamela Mishkin, Jack Clark, Gretchen Krueger, Ilya Sutskever* `arXiv` [[pdf]](https://arxiv.org/abs/2103.00020) [[code]](https://github.com/OpenAI/CLIP)
+
+### Analysis of Contrastive Learning
+1. **What Makes for Good Views for Contrastive Learning?** *Yonglong Tian, Chen Sun, Ben Poole, Dilip Krishnan, Cordelia Schmid, Phillip Isola* `NeurIPS 2020` [[pdf]](https://arxiv.org/abs/2005.10243) [[code]](https://hobbitlong.github.io/InfoMin/)
+
+1. **Demystifying Contrastive Self-Supervised Learning: Invariances, Augmentations and Dataset Biases** *Senthil Purushwalkam, Abhinav Gupta* `NeurIPS 2020` [[pdf]](https://arxiv.org/abs/2007.13916)
+
+1. **What Should Not Be Contrastive in Contrastive Learning** *Tete Xiao, Xiaolong Wang, Alexei A. Efros, Trevor Darrell* `ICLR 2021` [[pdf]](https://arxiv.org/abs/2008.05659)
 
 1. **Poisoning and Backdooring Contrastive Learning** *Nicholas Carlini, Andreas Terzis* `ICLR 2022` [[pdf]](https://arxiv.org/abs/2106.09667)
 
+### Misc
 
-## Paper
+## Contrastive Learning for NLP
+1. **SimCSE: Simple Contrastive Learning of Sentence Embeddings** *Tianyu Gao, Xingcheng Yao, Danqi Chen* `EMNLP 2021` [[pdf]](https://arxiv.org/abs/2104.08821) [[code]](https://github.com/princeton-nlp/simcse)
+
+1. **Contrastive Estimation: Training Log-Linear Models on Unlabeled Data** *Noah A. Smith, Jason Eisner* `ACL 2005` [[pdf]](https://aclanthology.org/P05-1044.pdf)
+
 1. **Towards Universal Paraphrastic Sentence Embeddings** *John Wieting, Mohit Bansal, Kevin Gimpel, Karen Livescu* `ICLR 2016` [[pdf]](https://arxiv.org/abs/1511.08198) [[code]](https://github.com/jwieting/iclr2016)
 
 1. **Learning the Difference that Makes a Difference with Counterfactually-Augmented Data** *Divyansh Kaushik, Eduard Hovy, Zachary C. Lipton* `ICLR 2020` [[pdf]](https://arxiv.org/abs/1909.12434) [[code]](https://github.com/acmi-lab/counterfactually-augmented-data)
