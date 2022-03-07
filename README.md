@@ -123,5 +123,7 @@
 
 1. **Text and Code Embeddings by Contrastive Pre-Training** *Arvind Neelakantan, Tao Xu, Raul Puri, Alec Radford, Jesse Michael Han, Jerry Tworek, Qiming Yuan, Nikolas Tezak, Jong Wook Kim, Chris Hallacy, Johannes Heidecke, Pranav Shyam, Boris Power, Tyna Eloundou Nekoul, Girish Sastry, Gretchen Krueger, David Schnurr, Felipe Petroski Such, Kenny Hsu, Madeleine Thompson, Tabarak Khan, Toki Sherbakov, Joanne Jang, Peter Welinder, Lilian Weng* `arXiv` [[pdf]](https://arxiv.org/abs/2201.10005) [[code]](https://openai.com/blog/introducing-text-and-code-embeddings/)
 
+1. **Multi-Level Contrastive Learning for Cross-Lingual Alignment** *Beiduo Chen, Wu Guo, Bin Gu, Quan Liu, Yongchao Wang* `ICASSP 2022` [[pdf]](https://arxiv.org/abs/2202.13083) [[code]](https://github.com/salesforce/BLIP)
+
 ## Contributor
 [Rui Zhang](https://ryanzhumich.github.io/)
