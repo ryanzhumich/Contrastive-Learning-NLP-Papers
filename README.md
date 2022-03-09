@@ -108,6 +108,12 @@
 
 1. **Phrase Retrieval Learns Passage Retrieval, Too** *Jinhyuk Lee, Alexander Wettig, Danqi Chen* `EMNLP 2021` [[pdf]](https://arxiv.org/abs/2109.08133) [[code]](https://github.com/princeton-nlp/DensePhrases)
 
+1. **Self-Guided Contrastive Learning for BERT Sentence Representations** *Taeuk Kim, Kang Min Yoo, Sang-goo Lee* `	ACL 2021` [[pdf]](https://arxiv.org/abs/2106.07345)
+
+1. **Pairwise Supervised Contrastive Learning of Sentence Representations** *Dejiao Zhang, Shang-Wen Li, Wei Xiao, Henghui Zhu, Ramesh Nallapati, Andrew O. Arnold, Bing Xiang* `EMNLP 2021` [[pdf]](https://arxiv.org/abs/2109.05424) [[code]](https://github.com/amazon-research/sentence-representations)
+
+1. **SupCL-Seq: Supervised Contrastive Learning for Downstream Optimized Sequence Representations** *Hooman Sedghamiz, Shivam Raval, Enrico Santus, Tuka Alhanai, Mohammad Ghassemi* `Findings of EMNLP 2021` [[pdf]](https://arxiv.org/abs/2109.07424) [[code]](https://github.com/hooman650/SupCL-Seq)
+
 ### Information Extraction
 
 ### Sequence Labeling
