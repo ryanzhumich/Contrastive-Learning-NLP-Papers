@@ -70,7 +70,31 @@
 
 1. **NL-Augmenter: A Framework for Task-Sensitive Natural Language Augmentation** *Kaustubh D. Dhole, Varun Gangal, Sebastian Gehrmann, Aadesh Gupta, Zhenhao Li, Saad Mahamood, Abinaya Mahendiran, Simon Mille, Ashish Srivastava, Samson Tan, Tongshuang Wu, Jascha Sohl-Dickstein, Jinho D. Choi, Eduard Hovy, Ondrej Dusek, Sebastian Ruder, Sajant Anand, Nagender Aneja, Rabin Banjade, Lisa Barthe, Hanna Behnke, Ian Berlot-Attwell, Connor Boyle, Caroline Brun, Marco Antonio Sobrevilla Cabezudo, Samuel Cahyawijaya, Emile Chapuis, Wanxiang Che, Mukund Choudhary, Christian Clauss, Pierre Colombo, Filip Cornell, Gautier Dagan, Mayukh Das, Tanay Dixit, Thomas Dopierre, Paul-Alexis Dray, Suchitra Dubey, Tatiana Ekeinhor, Marco Di Giovanni, Rishabh Gupta, Rishabh Gupta, Louanes Hamla, Sang Han, Fabrice Harel-Canada, Antoine Honore, Ishan Jindal, Przemyslaw K. Joniak, Denis Kleyko, Venelin Kovatchev, Kalpesh Krishna, Ashutosh Kumar, Stefan Langer, Seungjae Ryan Lee, Corey James Levinson, Hualou Liang, Kaizhao Liang, Zhexiong Liu, Andrey Lukyanenko, Vukosi Marivate, Gerard de Melo, Simon Meoni, Maxime Meyer, Afnan Mir, Nafise Sadat Moosavi, Niklas Muennighoff, Timothy Sum Hon Mun, Kenton Murray, Marcin Namysl, Maria Obedkova, Priti Oli, Nivranshu Pasricha, Jan Pfister, Richard Plant, Vinay Prabhu, Vasile Pais, Libo Qin, Shahab Raji, Pawan Kumar Rajpoot, Vikas Raunak, Roy Rinberg, Nicolas Roberts, Juan Diego Rodriguez, Claude Roux, Vasconcellos P. H. S., Ananya B. Sai, Robin M. Schmidt, Thomas Scialom, Tshephisho Sefara, Saqib N. Shamsi, Xudong Shen, Haoyue Shi, Yiwen Shi, Anna Shvets, Nick Siegel, Damien Sileo, Jamie Simon, Chandan Singh, Roman Sitelew, Priyank Soni , Taylor Sorensen, William Soto, Aman Srivastava, KV Aditya Srivatsa, Tony Sun, Mukund Varma T, A Tabassum, Fiona Anting Tan, Ryan Teehan, Mo Tiwari, Marie Tolkiehn, Athena Wang, Zijian Wang, Gloria Wang, Zijie J. Wang, Fuxuan Wei, Bryan Wilie, Genta Indra Winata, Xinyi Wu, Witold Wydmański, Tianbao Xie, Usama Yaseen, M. Yee, Jing Zhang, Yue Zhang* `arXiv` [[pdf]](https://arxiv.org/abs/2112.02721) [[code]](https://github.com/GEM-benchmark/NL-Augmenter)
 
+1. **A Simple but Tough-to-Beat Data Augmentation Approach for Natural Language Understanding and Generation** *Dinghan Shen, Mingzhi Zheng, Yelong Shen, Yanru Qu, Weizhu Chen* `arXiv` [[pdf]](https://arxiv.org/abs/2009.13818) [[code]](https://github.com/dinghanshen/cutoff)
+
+1. **Efficient Contrastive Learning via Novel Data Augmentation and Curriculum Learning** *Seonghyeon Ye, Jiseon Kim, Alice Oh* `EMNLP 2021` [[pdf]](https://arxiv.org/abs/2109.05941) [[code]](https://github.com/vano1205/EfficientCL)
+
+1. **CoDA: Contrast-enhanced and Diversity-promoting Data Augmentation for Natural Language Understanding** *Yanru Qu, Dinghan Shen, Yelong Shen, Sandra Sajeev, Jiawei Han, Weizhu Chen* `ICLR 2021` [[pdf]](https://arxiv.org/abs/2010.08670)
+
 ### Text Classification
+
+1. **CERT: Contrastive Self-supervised Learning for Language Understanding** *Hongchao Fang, Sicheng Wang, Meng Zhou, Jiayuan Ding, Pengtao Xie* `arXiv` [[pdf]](https://arxiv.org/abs/2005.12766) [[code]](https://github.com/UCSD-AI4H/CERT)
+
+1. **Self-Supervised Contrastive Learning for Efficient User Satisfaction Prediction in Conversational Agents** *Mohammad Kachuee, Hao Yuan, Young-Bum Kim, Sungjin Lee* `NAACL 2021` [[pdf]](https://arxiv.org/abs/2010.11230)
+
+1. **Not All Negatives are Equal: Label-Aware Contrastive Loss for Fine-grained Text Classification** *Varsha Suresh, Desmond C. Ong* `EMNLP 2021` [[pdf]](https://arxiv.org/abs/2109.05427)
+
+1. **Constructing Contrastive samples via Summarization for Text Classification with limited annotations** *Yangkai Du, Tengfei Ma, Lingfei Wu, Fangli Xu, Xuhong Zhang, Bo Long, Shouling Ji* `Findings of EMNLP 2021` [[pdf]](https://arxiv.org/abs/2104.05094)
+
+1. **Semantic Re-Tuning via Contrastive Tension** *Fredrik Carlsson, Amaru Cuba Gyllensten, Evangelia Gogoulou, Erik Ylipää Hellqvist, Magnus Sahlgren* `ICLR 2021` [[pdf]](https://openreview.net/forum?id=Ov_sMNau-PF) [[code]](https://github.com/FreddeFrallan/Contrastive-Tension)
+
+1. **Approximate Nearest Neighbor Negative Contrastive Learning for Dense Text Retrieval** *Lee Xiong, Chenyan Xiong, Ye Li, Kwok-Fung Tang, Jialin Liu, Paul Bennett, Junaid Ahmed, Arnold Overwijk* `ICLR 2021` [[pdf]](https://arxiv.org/abs/2007.00808)
+
+1. **Improving Gradient-based Adversarial Training for Text Classification by Contrastive Learning and Auto-Encoder** *Yao Qiu, Jinchao Zhang, Jie Zhou* `Findings of ACL 2021` [[pdf]](https://arxiv.org/abs/2109.06536)
+
+1. **Contrastive Document Representation Learning with Graph Attention Networks** *Peng Xu, Xinchi Chen, Xiaofei Ma, Zhiheng Huang, Bing Xiang* `Findings of EMNLP 2021` [[pdf]](https://arxiv.org/abs/2110.10778)
+
+1. **Attention-based Contrastive Learning for Winograd Schemas** *Tassilo Klein, Moin Nabi* `Findings of EMNLP 2021` [[pdf]](https://arxiv.org/abs/2109.05108) [[code]](https://github.com/SAP-samples/emnlp2021-attention-contrastive-learning/)
 
 ### Sentence Embeddings and Phrase Embeddings
 
