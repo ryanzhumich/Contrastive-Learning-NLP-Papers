@@ -100,6 +100,8 @@
 
 1. **Towards Universal Paraphrastic Sentence Embeddings** *John Wieting, Mohit Bansal, Kevin Gimpel, Karen Livescu* `ICLR 2016` [[pdf]](https://arxiv.org/abs/1511.08198) [[code]](https://github.com/jwieting/iclr2016)
 
+1. **An Efficient Framework for Learning Sentence Representations** *Lajanugen Logeswaran, Honglak Lee* `ICLR 2018` [[pdf]](https://arxiv.org/abs/1803.02893) [[code]](https://github.com/lajanugen/S2V)
+
 1. **SimCSE: Simple Contrastive Learning of Sentence Embeddings** *Tianyu Gao, Xingcheng Yao, Danqi Chen* `EMNLP 2021` [[pdf]](https://arxiv.org/abs/2104.08821) [[code]](https://github.com/princeton-nlp/simcse)
 
 1. **Fast, Effective, and Self-Supervised: Transforming Masked Language Models into Universal Lexical and Sentence Encoders** *Fangyu Liu, Ivan Vulić, Anna Korhonen, Nigel Collier* `EMNLP 2021` [[pdf]](https://arxiv.org/abs/2104.08027) [[code]](https://github.com/cambridgeltl/mirror-bert)
@@ -113,6 +115,20 @@
 1. **Pairwise Supervised Contrastive Learning of Sentence Representations** *Dejiao Zhang, Shang-Wen Li, Wei Xiao, Henghui Zhu, Ramesh Nallapati, Andrew O. Arnold, Bing Xiang* `EMNLP 2021` [[pdf]](https://arxiv.org/abs/2109.05424) [[code]](https://github.com/amazon-research/sentence-representations)
 
 1. **SupCL-Seq: Supervised Contrastive Learning for Downstream Optimized Sequence Representations** *Hooman Sedghamiz, Shivam Raval, Enrico Santus, Tuka Alhanai, Mohammad Ghassemi* `Findings of EMNLP 2021` [[pdf]](https://arxiv.org/abs/2109.07424) [[code]](https://github.com/hooman650/SupCL-Seq)
+
+1. **Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks** *Nils Reimers, Iryna Gurevych* `EMNLP 2019` [[pdf]](https://arxiv.org/abs/1908.10084) [[code]](https://github.com/UKPLab/sentence-transformers)
+
+1. **An Unsupervised Sentence Embedding Method by Mutual Information Maximization** *Yan Zhang, Ruidan He, Zuozhu Liu, Kwan Hui Lim, Lidong Bing* `EMNLP 2020` [[pdf]](https://arxiv.org/abs/2009.12061) [[code]](https://github.com/yanzhangnlp/IS-BERT)
+
+1. **DeCLUTR: Deep Contrastive Learning for Unsupervised Textual Representations** *John Giorgi, Osvald Nitski, Bo Wang, Gary Bader* `ACL 2021` [[pdf]](https://arxiv.org/abs/2006.03659) [[code]](https://github.com/JohnGiorgi/DeCLUTR)
+
+1. **ConSERT: A Contrastive Framework for Self-Supervised Sentence Representation Transfer** *Yuanmeng Yan, Rumei Li, Sirui Wang, Fuzheng Zhang, Wei Wu, Weiran Xu* `ACL 2021` [[pdf]](https://arxiv.org/abs/2105.11741) [[code]](https://github.com/yym6472/ConSERT)
+
+1. **DialogueCSE: Dialogue-based Contrastive Learning of Sentence Embeddings** *Che Liu, Rui Wang, Jinghua Liu, Jian Sun, Fei Huang, Luo Si* `EMNLP 2021` [[pdf]](https://arxiv.org/abs/2109.12599) [[code]](https://github.com/wangruicn/DialogueCSE)
+
+1. **Pretraining with Contrastive Sentence Objectives Improves Discourse Performance of Language Models** *Dan Iter, Kelvin Guu, Larry Lansing, Dan Jurafsky* `ACL 2020` [[pdf]](https://arxiv.org/abs/2005.10389) [[code]](https://github.com/google-research/language/tree/master/language/conpono)
+
+1. **Contextualized and Generalized Sentence Representations by Contrastive Self-Supervised Learning: A Case Study on Discourse Relation Analysis** *Hirokazu Kiyomaru, Sadao Kurohashi* `NAACL 2021` [[pdf]](https://aclanthology.org/2021.naacl-main.442.pdf)
 
 ### Information Extraction
 
