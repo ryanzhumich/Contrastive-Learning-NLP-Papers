@@ -1,6 +1,8 @@
 <p align="center">
-<h2 align="center"> Contrastive Learning for Natural Language Processing Papers</h2>
+<h2 align="center"> Contrastive Learning for Natural Language Processing</h2>
 </p>
+
+Current NLP models heavily rely on effective representation learning algorithms. Contrastive learning is one such technique to learn an embedding space such that similar data sample pairs have close representations while dissimilar samples stay far apart from each other. It can be used in supervised or unsupervised settings using different loss functions to produce task-specific or general-purpose representations. While it has originally enabled the success for vision tasks, recent years have seen a growing number of publications in contrastive NLP. This first line of works not only delivers promising performance improvements in various NLP tasks, but also provides desired characteristics such as task-agnostic sentence representation, faithful text generation, data-efficient learning in zero-shot and few-shot settings, interpretability and explainability.
 
 ## 1. Tutorial and Survey
 
