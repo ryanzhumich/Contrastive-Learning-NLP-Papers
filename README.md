@@ -177,25 +177,27 @@
 
 1. **A Contrastive Framework for Neural Text Generation** *Yixuan Su, Tian Lan, Yan Wang, Dani Yogatama, Lingpeng Kong, Nigel Collier* `arXiv` [[pdf]](https://arxiv.org/abs/2202.06417) [[code]](https://github.com/yxuansu/SimCTG)
 
-1. **** ** `` [[pdf]]() [[code]]()
+1. **Counter-Contrastive Learning for Language GANs** *Yekun Chai, Haidong Zhang, Qiyue Yin, Junge Zhang* `Findings of EMNLP 2021` [[pdf]](https://aclanthology.org/2021.findings-emnlp.415.pdf)
 
-1. **** ** `` [[pdf]]() [[code]]()
+1. **Contrastive Learning with Adversarial Perturbations for Conditional Text Generation** *Seanie Lee, Dong Bok Lee, Sung Ju Hwang* `ICLR 2021` [[pdf]](https://arxiv.org/abs/2012.07280) [[code]](https://github.com/seanie12/CLAPS)
 
-1. **** ** `` [[pdf]]() [[code]]()
+1. **Logic-Consistency Text Generation from Semantic Parses** *Chang Shu, Yusen Zhang, Xiangyu Dong, Peng Shi, Tao Yu, Rui Zhang* `Findings of ACL 2021` [[pdf]](https://aclanthology.org/2021.findings-acl.388.pdf) [[code]](https://github.com/Ciaranshu/relogic)
 
-1. **** ** `` [[pdf]]() [[code]]()
+1. **Contrastive Representation Learning for Exemplar-Guided Paraphrase Generation** *Haoran Yang, Wai Lam, Piji Li* `Findings of EMNLP 2021` [[pdf]](https://arxiv.org/abs/2109.01484) [[code]](https://github.com/LHRYANG/CRL_EGPG)
 
-1. **** ** `` [[pdf]]() [[code]]()
+1. **Grammatical Error Correction with Contrastive Learning in Low Error Density Domains** *Hannan Cao, Wenmian Yang, Hwee Tou Ng* `Findings of EMNLP 2021` [[pdf]](https://aclanthology.org/2021.findings-emnlp.419/) [[code]](https://github.com/nusnlp/geccl)
 
-1. **** ** `` [[pdf]]() [[code]]()
+1. **Group-wise Contrastive Learning for Neural Dialogue Generation** *Hengyi Cai, Hongshen Chen, Yonghao Song, Zhuoye Ding, Yongjun Bao, Weipeng Yan, Xiaofang Zhao* `Findings of EMNLP 2020` [[pdf]](https://arxiv.org/abs/2009.07543) [[code]](https://github.com/hengyicai/ContrastiveLearning4Dialogue)
 
-1. **** ** `` [[pdf]]() [[code]]()
+1. **Contrastive Attention for Automatic Chest X-ray Report Generation** *Fenglin Liu, Changchang Yin, Xian Wu, Shen Ge, Yuexian Zou, Ping Zhang, Xu Sun* `Findings of ACL 2021` [[pdf]](https://arxiv.org/abs/2106.06965)
 
-1. **** ** `` [[pdf]]() [[code]]()
+1. **Weakly Supervised Contrastive Learning for Chest X-Ray Report Generation** *An Yan, Zexue He, Xing Lu, Jiang Du, Eric Chang, Amilcare Gentili, Julian McAuley, Chun-Nan Hsu* `Findings of EMNLP 2021` [[pdf]](https://arxiv.org/abs/2109.12242)
 
-1. **** ** `` [[pdf]]() [[code]]()
+1. **Learning with Contrastive Examples for Data-to-Text Generation** *Yui Uehara, Tatsuya Ishigaki, Kasumi Aoki, Hiroshi Noji, Keiichi Goshima, Ichiro Kobayashi, Hiroya Takamura, Yusuke Miyao* `COLING 2020` [[pdf]](https://aclanthology.org/2020.coling-main.213.pdf) [[code]](https://github.com/aistairc/contrastive_data2text)
 
 ### Few-shot Learning
+
+1. **** ** `` [[pdf]]() [[code]]()
 
 1. **** ** `` [[pdf]]() [[code]]()
 
