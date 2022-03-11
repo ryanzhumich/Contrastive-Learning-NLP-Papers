@@ -238,27 +238,29 @@
 
 ### Commonsense Knowledge and Reasoning
 
-1. **** ** `` [[pdf]]() [[code]]()
+1. **Contrastive Self-Supervised Learning for Commonsense Reasoning** *Tassilo Klein, Moin Nabi* `ACL 2020` [[pdf]](https://arxiv.org/abs/2005.00669) [[code]](https://github.com/SAP-samples/acl2020-commonsense/)
 
-1. **** ** `` [[pdf]]() [[code]]()
+1. **Prompting Contrastive Explanations for Commonsense Reasoning Tasks** *Bhargavi Paranjape, Julian Michael, Marjan Ghazvininejad, Luke Zettlemoyer, Hannaneh Hajishirzi* `Findings of ACL 2021` [[pdf]](https://arxiv.org/abs/2106.06823)
 
-1. **** ** `` [[pdf]]() [[code]]()
-
-1. **** ** `` [[pdf]]() [[code]]()
-
-1. **** ** `` [[pdf]]() [[code]]()
+1. **KFCNet: Knowledge Filtering and Contrastive Learning Network for Generative Commonsense Reasoning** *Haonan Li, Yeyun Gong, Jian Jiao, Ruofei Zhang, Timothy Baldwin, Nan Duan* `Findings of EMNLP 2021` [[pdf]](https://arxiv.org/abs/2109.06704)
 
 ### Vision-and-Language
 
-1. **** ** `` [[pdf]]() [[code]]()
+1. **Counterfactual Contrastive Learning for Weakly-Supervised Vision-Language Grounding** *Zhu Zhang, Zhou Zhao, Zhijie Lin, Jieming Zhu, Xiuqiang He* `NeurIPS 2020` [[pdf]](https://papers.nips.cc/paper/2020/file/d27b95cac4c27feb850aaa4070cc4675-Paper.pdf)
 
-1. **** ** `` [[pdf]]() [[code]]()
+1. **UNIMO: Towards Unified-Modal Understanding and Generation via Cross-Modal Contrastive Learning** *Wei Li, Can Gao, Guocheng Niu, Xinyan Xiao, Hao Liu, Jiachen Liu, Hua Wu, Haifeng Wang* `ACL 2021` [[pdf]](https://arxiv.org/abs/2012.15409) [[code]](https://github.com/PaddlePaddle/Research/tree/master/NLP/UNIMO)
 
-1. **** ** `` [[pdf]]() [[code]]()
+1. **SOrT-ing VQA Models : Contrastive Gradient Learning for Improved Consistency** *Sameer Dharur, Purva Tendulkar, Dhruv Batra, Devi Parikh, Ramprasaath R. Selvaraju* `NeurIPS 2020 workshop` [[pdf]](https://arxiv.org/abs/2010.10038) [[code]](https://github.com/sameerdharur/sorting-vqa)
 
-1. **** ** `` [[pdf]]() [[code]]()
+1. **Contrastive Learning for Weakly Supervised Phrase Grounding** *Tanmay Gupta, Arash Vahdat, Gal Chechik, Xiaodong Yang, Jan Kautz, Derek Hoiem* `ECCV 2020` [[pdf]](https://arxiv.org/abs/2006.09920) [[code]](http://tanmaygupta.info/info-ground/)
 
-1. **** ** `` [[pdf]]() [[code]]()
+1. **Unsupervised Natural Language Inference via Decoupled Multimodal Contrastive Learning** *Wanyun Cui, Guangyu Zheng, Wei Wang* `EMNLP 2020` [[pdf]](https://arxiv.org/abs/2010.08200)
+
+1. **VideoCLIP: Contrastive Pre-training for Zero-shot Video-Text Understanding** *Hu Xu, Gargi Ghosh, Po-Yao Huang, Dmytro Okhonko, Armen Aghajanyan, Florian Metze, Luke Zettlemoyer, Christoph Feichtenhofer* `EMNLP 2021` [[pdf]](https://arxiv.org/abs/2109.14084) [[code]](https://github.com/pytorch/fairseq/tree/main/examples/MMPT)
+
+1. **Scaling Up Visual and Vision-Language Representation Learning With Noisy Text Supervision** *Chao Jia, Yinfei Yang, Ye Xia, Yi-Ting Chen, Zarana Parekh, Hieu Pham, Quoc V. Le, Yunhsuan Sung, Zhen Li, Tom Duerig* `ICML 2021` [[pdf]](https://arxiv.org/abs/2102.05918)
+
+1. **UMIC: An Unreferenced Metric for Image Captioning via Contrastive Learning** *Hwanhee Lee, Seunghyun Yoon, Franck Dernoncourt, Trung Bui, Kyomin Jung* `ACL 2021` [[pdf]](https://arxiv.org/abs/2106.14019) [[code]](https://github.com/hwanheelee1993/UMIC)
 
 1. **BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation** *Junnan Li, Dongxu Li, Caiming Xiong, Steven Hoi* `arXiv` [[pdf]](https://arxiv.org/abs/2201.12086) [[code]](https://github.com/salesforce/BLIP)
 
@@ -269,6 +271,30 @@
 1. **Text and Code Embeddings by Contrastive Pre-Training** *Arvind Neelakantan, Tao Xu, Raul Puri, Alec Radford, Jesse Michael Han, Jerry Tworek, Qiming Yuan, Nikolas Tezak, Jong Wook Kim, Chris Hallacy, Johannes Heidecke, Pranav Shyam, Boris Power, Tyna Eloundou Nekoul, Girish Sastry, Gretchen Krueger, David Schnurr, Felipe Petroski Such, Kenny Hsu, Madeleine Thompson, Tabarak Khan, Toki Sherbakov, Joanne Jang, Peter Welinder, Lilian Weng* `arXiv` [[pdf]](https://arxiv.org/abs/2201.10005) [[code]](https://openai.com/blog/introducing-text-and-code-embeddings/)
 
 1. **Multi-Level Contrastive Learning for Cross-Lingual Alignment** *Beiduo Chen, Wu Guo, Bin Gu, Quan Liu, Yongchao Wang* `ICASSP 2022` [[pdf]](https://arxiv.org/abs/2202.13083) [[code]](https://github.com/salesforce/BLIP)
+
+1. **** ** `` [[pdf]]() [[code]]()
+
+1. **** ** `` [[pdf]]() [[code]]()
+
+1. **** ** `` [[pdf]]() [[code]]()
+
+1. **** ** `` [[pdf]]() [[code]]()
+
+1. **** ** `` [[pdf]]() [[code]]()
+
+1. **** ** `` [[pdf]]() [[code]]()
+
+1. **** ** `` [[pdf]]() [[code]]()
+
+1. **** ** `` [[pdf]]() [[code]]()
+
+1. **** ** `` [[pdf]]() [[code]]()
+
+1. **** ** `` [[pdf]]() [[code]]()
+
+1. **** ** `` [[pdf]]() [[code]]()
+
+1. **** ** `` [[pdf]]() [[code]]()
 
 ## Contributor
 [Rui Zhang](https://ryanzhumich.github.io/)
