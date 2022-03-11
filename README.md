@@ -197,15 +197,14 @@
 
 ### Few-shot Learning
 
-1. **** ** `` [[pdf]]() [[code]]()
+1. **An Explicit-Joint and Supervised-Contrastive Learning Framework for Few-Shot Intent Classification and Slot Filling** *Han Liu, Feng Zhang, Xiaotong Zhang, Siyang Zhao, Xianchao Zhang* `Findings of EMNLP 2021` [[pdf]](https://arxiv.org/abs/2110.13691)
 
-1. **** ** `` [[pdf]]() [[code]]()
+1. **Few-Shot Intent Detection via Contrastive Pre-Training and Fine-Tuning** *Jianguo Zhang, Trung Bui, Seunghyun Yoon, Xiang Chen, Zhiwei Liu, Congying Xia, Quan Hung Tran, Walter Chang, Philip Yu* `EMNLP 2021` [[pdf]](https://arxiv.org/abs/2109.06349) [[code]](https://github.com/jianguoz/Few-Shot-Intent-Detection)
 
-1. **** ** `` [[pdf]]() [[code]]()
+1. **Bridge to Target Domain by Prototypical Contrastive Learning and Label Confusion: Re-explore Zero-Shot Learning for Slot Filling** *Liwen Wang, Xuefeng Li, Jiachi Liu, Keqing He, Yuanmeng Yan, Weiran Xu* `EMNLP 2021` [[pdf]](https://arxiv.org/abs/2110.03572) [[code]](https://github.com/W-lw/PCLC)
 
-1. **** ** `` [[pdf]]() [[code]]()
+1. **Bi-Granularity Contrastive Learning for Post-Training in Few-Shot Scene** *Ruikun Luo, Guanhuan Huang, Xiaojun Quan* `Findings of ACL 2021` [[pdf]](https://arxiv.org/abs/2106.02327)
 
-1. **** ** `` [[pdf]]() [[code]]()
 
 ### Contrastive Pretraining
 
@@ -213,11 +212,53 @@
 
 1. **TaCL: Improving BERT Pre-training with Token-aware Contrastive Learning** *Yixuan Su, Fangyu Liu, Zaiqiao Meng, Tian Lan, Lei Shu, Ehsan Shareghi, Nigel Collier* `arXiv` [[pdf]](https://arxiv.org/abs/2111.04198) [[code]](https://github.com/yxuansu/TaCL)
 
+1. **CLEAR: Contrastive Learning for Sentence Representation** *Zhuofeng Wu, Sinong Wang, Jiatao Gu, Madian Khabsa, Fei Sun, Hao Ma* `arXiv` [[pdf]](https://arxiv.org/abs/2012.15466)
+
+1. **Supervised Contrastive Learning for Pre-trained Language Model Fine-tuning** *Beliz Gunel, Jingfei Du, Alexis Conneau, Ves Stoyanov* `ICLR 2021` [[pdf]](https://arxiv.org/abs/2011.01403)
+
+1. **Pre-Training Transformers as Energy-Based Cloze Models** *Kevin Clark, Minh-Thang Luong, Quoc V. Le, Christopher D. Manning* `EMNLP 2020` [[pdf]](https://arxiv.org/abs/2012.08561) [[code]](https://github.com/google-research/electra)
+
+1. **Fine-Tuning Pre-trained Language Model with Weak Supervision: A Contrastive-Regularized Self-Training Approach** *Yue Yu, Simiao Zuo, Haoming Jiang, Wendi Ren, Tuo Zhao, Chao Zhang* `NAACL 2021` [[pdf]](https://arxiv.org/abs/2010.07835) [[code]](https://github.com/yueyu1030/COSINE)
+
+1. **Data-Efficient Pretraining via Contrastive Self-Supervision** *Nils Rethmeier, Isabelle Augenstein* `arXiv` [[pdf]](https://arxiv.org/abs/2010.01061)
+
+1. **Multi-Granularity Contrasting for Cross-Lingual Pre-Training** *Shicheng Li, Pengcheng Yang, Fuli Luo, Jun Xie* `Findings of ACL 2021` [[pdf]](https://aclanthology.org/2021.findings-acl.149.pdf)
+
 ### Interpretability and Explainability
+
+1. **** ** `` [[pdf]]() [[code]]()
+
+1. **** ** `` [[pdf]]() [[code]]()
+
+1. **** ** `` [[pdf]]() [[code]]()
+
+1. **** ** `` [[pdf]]() [[code]]()
+
+1. **** ** `` [[pdf]]() [[code]]()
 
 ### Commonsense Knowledge and Reasoning
 
+1. **** ** `` [[pdf]]() [[code]]()
+
+1. **** ** `` [[pdf]]() [[code]]()
+
+1. **** ** `` [[pdf]]() [[code]]()
+
+1. **** ** `` [[pdf]]() [[code]]()
+
+1. **** ** `` [[pdf]]() [[code]]()
+
 ### Vision-and-Language
+
+1. **** ** `` [[pdf]]() [[code]]()
+
+1. **** ** `` [[pdf]]() [[code]]()
+
+1. **** ** `` [[pdf]]() [[code]]()
+
+1. **** ** `` [[pdf]]() [[code]]()
+
+1. **** ** `` [[pdf]]() [[code]]()
 
 1. **BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation** *Junnan Li, Dongxu Li, Caiming Xiong, Steven Hoi* `arXiv` [[pdf]](https://arxiv.org/abs/2201.12086) [[code]](https://github.com/salesforce/BLIP)
 
