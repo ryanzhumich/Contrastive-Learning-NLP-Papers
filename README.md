@@ -226,15 +226,15 @@
 
 ### Interpretability and Explainability
 
-1. **** ** `` [[pdf]]() [[code]]()
+1. **Evaluating Models' Local Decision Boundaries via Contrast Sets** *Matt Gardner, Yoav Artzi, Victoria Basmova, Jonathan Berant, Ben Bogin, Sihao Chen, Pradeep Dasigi, Dheeru Dua, Yanai Elazar, Ananth Gottumukkala, Nitish Gupta, Hanna Hajishirzi, Gabriel Ilharco, Daniel Khashabi, Kevin Lin, Jiangming Liu, Nelson F. Liu, Phoebe Mulcaire, Qiang Ning, Sameer Singh, Noah A. Smith, Sanjay Subramanian, Reut Tsarfaty, Eric Wallace, Ally Zhang, Ben Zhou* `arXiv` [[pdf]](https://arxiv.org/abs/2004.02709)
 
-1. **** ** `` [[pdf]]() [[code]]()
+1. **ALICE: Active Learning with Contrastive Natural Language Explanations** *Weixin Liang, James Zou, Zhou Yu* `EMNLP 2020` [[pdf]](https://arxiv.org/abs/2009.10259)
 
-1. **** ** `` [[pdf]]() [[code]]()
+1. **Explaining NLP Models via Minimal Contrastive Editing (MiCE)** *Alexis Ross, Ana Marasović, Matthew E. Peters* `Findings of ACL 2021` [[pdf]](https://arxiv.org/abs/2012.13985) [[code]](https://github.com/allenai/mice)
 
-1. **** ** `` [[pdf]]() [[code]]()
+1. **KACE: Generating Knowledge Aware Contrastive Explanations for Natural Language Inference** *Qianglong Chen, Feng Ji, Xiangji Zeng, Feng-Lin Li, Ji Zhang, Haiqing Chen, Yin Zhang* `ACL 2021` [[pdf]](https://aclanthology.org/2021.acl-long.196.pdf)
 
-1. **** ** `` [[pdf]]() [[code]]()
+1. **Contrastive Explanations for Model Interpretability** *Alon Jacovi, Swabha Swayamdipta, Shauli Ravfogel, Yanai Elazar, Yejin Choi, Yoav Goldberg* `EMNLP 2021` [[pdf]](https://arxiv.org/abs/2103.01378) [[code]](https://github.com/allenai/contrastive-explanations)
 
 ### Commonsense Knowledge and Reasoning
 
