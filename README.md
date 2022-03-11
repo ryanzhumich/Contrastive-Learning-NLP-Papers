@@ -96,6 +96,8 @@
 
 1. **Attention-based Contrastive Learning for Winograd Schemas** *Tassilo Klein, Moin Nabi* `Findings of EMNLP 2021` [[pdf]](https://arxiv.org/abs/2109.05108) [[code]](https://github.com/SAP-samples/emnlp2021-attention-contrastive-learning/)
 
+1. **CLINE: Contrastive Learning with Semantic Negative Examples for Natural Language Understanding** *Dong Wang, Ning Ding, Piji Li, Hai-Tao Zheng* `ACL 2021` [[pdf]](https://arxiv.org/abs/2107.00440) [[code]](https://github.com/kandorm/CLINE)
+
 ### Sentence Embeddings and Phrase Embeddings
 
 1. **Towards Universal Paraphrastic Sentence Embeddings** *John Wieting, Mohit Bansal, Kevin Gimpel, Karen Livescu* `ICLR 2016` [[pdf]](https://arxiv.org/abs/1511.08198) [[code]](https://github.com/jwieting/iclr2016)
@@ -272,9 +274,9 @@
 
 1. **Multi-Level Contrastive Learning for Cross-Lingual Alignment** *Beiduo Chen, Wu Guo, Bin Gu, Quan Liu, Yongchao Wang* `ICASSP 2022` [[pdf]](https://arxiv.org/abs/2202.13083) [[code]](https://github.com/salesforce/BLIP)
 
-1. **** ** `` [[pdf]]() [[code]]()
+1. **Understanding Hard Negatives in Noise Contrastive Estimation** *Wenzheng Zhang, Karl Stratos* `NAACL 2021` [[pdf]](https://arxiv.org/abs/2104.06245) [[code]](https://github.com/WenzhengZhang/hard-nce-el)
 
-1. **** ** `` [[pdf]]() [[code]]()
+1. **Scaling Deep Contrastive Learning Batch Size under Memory Limited Setup** *Luyu Gao, Yunyi Zhang, Jiawei Han, Jamie Callan* `RepL4NLP 2021` [[pdf]](https://arxiv.org/abs/2101.06983) [[code]](https://github.com/luyug/GradCache)
 
 1. **** ** `` [[pdf]]() [[code]]()
 
