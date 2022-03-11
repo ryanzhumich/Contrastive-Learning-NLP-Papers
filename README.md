@@ -145,21 +145,65 @@
 
 ### Machine Translation
 
-1. **** ** `` [[pdf]]() [[code]]()
+1. **Contrastive Learning for Many-to-many Multilingual Neural Machine Translation** *Xiao Pan, Mingxuan Wang, Liwei Wu, Lei Li* `ACL 2021` [[pdf]](https://arxiv.org/abs/2105.09501) [[code]](https://github.com/PANXiao1994/mRASP2)
+
+1. **Contrastive Conditioning for Assessing Disambiguation in MT: A Case Study of Distilled Bia** *Jannis Vamvas, Rico Sennrich* `EMNLP 2021` [[pdf]](https://aclanthology.org/2021.emnlp-main.803.pdf) [[code]](https://github.com/ZurichNLP/contrastive-conditioning)
 
 ### Question Answering 
 
-1. **** ** `` [[pdf]]() [[code]]()
+1. **Dense Passage Retrieval for Open-Domain Question Answering** *Vladimir Karpukhin, Barlas Oğuz, Sewon Min, Patrick Lewis, Ledell Wu, Sergey Edunov, Danqi Chen, Wen-tau Yih* `EMNLP 2020` [[pdf]](https://arxiv.org/abs/2004.04906) [[code]](https://github.com/facebookresearch/DPR)
+
+1. **Self-supervised Contrastive Cross-Modality Representation Learning for Spoken Question Answering** *Chenyu You, Nuo Chen, Yuexian Zou* `Findings of EMNLP 2021` [[pdf]](https://arxiv.org/abs/2109.03381)
+
+1. **xMoCo: Cross Momentum Contrastive Learning for Open-Domain Question Answering** *Nan Yang, Furu Wei, Binxing Jiao, Daxin Jiang, Linjun Yang* `ACL 2021` [[pdf]](https://aclanthology.org/2021.acl-long.477.pdf)
+
+1. **Contrastive Domain Adaptation for Question Answering using Limited Text Corpora** *Zhenrui Yue, Bernhard Kratzwald, Stefan Feuerriegel* `EMNLP 2021` [[pdf]](https://arxiv.org/abs/2108.13854) [[code]](https://github.com/Yueeeeeeee/CAQA)
 
 ### Summarization
 
 1. **CLIFF: Contrastive Learning for Improving Faithfulness and Factuality in Abstractive Summarization** *Shuyang Cao, Lu Wang* `EMNLP 2021` [[pdf]](https://arxiv.org/abs/2109.09209) [[code]](https://shuyangcao.github.io/projects/cliff_summ)
 
+1. **Contrastive Attention Mechanism for Abstractive Sentence Summarization** *Xiangyu Duan, Hongfei Yu, Mingming Yin, Min Zhang, Weihua Luo, Yue Zhang* `EMNLP 2019` [[pdf]](https://aclanthology.org/D19-1301.pdf) [[code]](https://github.com/travel-go/Abstractive-Text-Summarization)
+
+1. **SimCLS: A Simple Framework for Contrastive Learning of Abstractive Summarization** *Yixin Liu, Pengfei Liu* `ACL 2021` [[pdf]](https://arxiv.org/abs/2106.01890) [[code]](https://github.com/yixinL7/SimCLS)
+
+1. **Unsupervised Reference-Free Summary Quality Evaluation via Contrastive Learning** *Hanlu Wu, Tengfei Ma, Lingfei Wu, Tariro Manyumwa, Shouling Ji* `EMNLP 2020` [[pdf]](https://arxiv.org/abs/2010.01781) [[code]]https://github.com/whl97/LS-Score)
+
+1. **Contrastive Aligned Joint Learning for Multilingual Summarization** *Danqing Wang, Jiaze Chen, Hao Zhou, Xipeng Qiu, Lei Li* `Findings of ACL 2021` [[pdf]](https://aclanthology.org/2021.findings-acl.242.pdf) [[code]](https://github.com/dqwang122/CALMS)
+
+1. **Topic-Aware Contrastive Learning for Abstractive Dialogue Summarization** *Junpeng Liu, Yanyan Zou, Hainan Zhang, Hongshen Chen, Zhuoye Ding, Caixia Yuan, Xiaojie Wang* `Findings of EMNLP 2021` [[pdf]](https://arxiv.org/abs/2109.04994)
+
 ### Text Generation
 
 1. **A Contrastive Framework for Neural Text Generation** *Yixuan Su, Tian Lan, Yan Wang, Dani Yogatama, Lingpeng Kong, Nigel Collier* `arXiv` [[pdf]](https://arxiv.org/abs/2202.06417) [[code]](https://github.com/yxuansu/SimCTG)
 
+1. **** ** `` [[pdf]]() [[code]]()
+
+1. **** ** `` [[pdf]]() [[code]]()
+
+1. **** ** `` [[pdf]]() [[code]]()
+
+1. **** ** `` [[pdf]]() [[code]]()
+
+1. **** ** `` [[pdf]]() [[code]]()
+
+1. **** ** `` [[pdf]]() [[code]]()
+
+1. **** ** `` [[pdf]]() [[code]]()
+
+1. **** ** `` [[pdf]]() [[code]]()
+
+1. **** ** `` [[pdf]]() [[code]]()
+
 ### Few-shot Learning
+
+1. **** ** `` [[pdf]]() [[code]]()
+
+1. **** ** `` [[pdf]]() [[code]]()
+
+1. **** ** `` [[pdf]]() [[code]]()
+
+1. **** ** `` [[pdf]]() [[code]]()
 
 ### Contrastive Pretraining
 
