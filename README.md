@@ -280,27 +280,29 @@ Current NLP models heavily rely on effective representation learning algorithms.
 
 1. **Scaling Deep Contrastive Learning Batch Size under Memory Limited Setup** *Luyu Gao, Yunyi Zhang, Jiawei Han, Jamie Callan* `RepL4NLP 2021` [[pdf]](https://arxiv.org/abs/2101.06983) [[code]](https://github.com/luyug/GradCache)
 
-1. **** ** `` [[pdf]]() [[code]]()
+1. **Contrastive Distillation on Intermediate Representations for Language Model Compression** *Siqi Sun, Zhe Gan, Yu Cheng, Yuwei Fang, Shuohang Wang, Jingjing Liu* `EMNLP 2020` [[pdf]](https://arxiv.org/abs/2009.14167) [[code]](https://github.com/intersun/CoDIR)
 
-1. **** ** `` [[pdf]]() [[code]]()
+1. **FairFil: Contrastive Neural Debiasing Method for Pretrained Text Encoders** *Pengyu Cheng, Weituo Hao, Siyang Yuan, Shijing Si, Lawrence Carin* `ICLR 2021` [[pdf]](https://arxiv.org/abs/2103.06413)
 
-1. **** ** `` [[pdf]]() [[code]]()
+1. **Get Your Vitamin C! Robust Fact Verification with Contrastive Evidence** *Tal Schuster, Adam Fisch, Regina Barzilay* `NAACL 2021` [[pdf]](https://arxiv.org/abs/2103.08541) [[code]](https://github.com/TalSchuster/VitaminC)
 
-1. **** ** `` [[pdf]]() [[code]]()
+1. **Supporting Clustering with Contrastive Learning** *Dejiao Zhang, Feng Nan, Xiaokai Wei, Shangwen Li, Henghui Zhu, Kathleen McKeown, Ramesh Nallapati, Andrew Arnold, Bing Xiang* `NAACL 2021` [[pdf]](https://arxiv.org/abs/2103.12953) [[code]](https://github.com/amazon-research/sccl)
 
-1. **** ** `` [[pdf]]() [[code]]()
+1. **Modeling Discriminative Representations for Out-of-Domain Detection with Supervised Contrastive Learning** *Zhiyuan Zeng, Keqing He, Yuanmeng Yan, Zijun Liu, Yanan Wu, Hong Xu, Huixing Jiang, Weiran Xu* `ACL 2021` [[pdf]](https://arxiv.org/abs/2105.14289) [[code]](https://github.com/parZival27/supervised-contrastive-learning-for-out-of-domain-detection)
 
-1. **** ** `` [[pdf]]() [[code]]()
+1. **Contrastive Out-of-Distribution Detection for Pretrained Transformers** *Wenxuan Zhou, Fangyu Liu, Muhao Chen* `EMNLP 2021` [[pdf]](https://arxiv.org/abs/2104.08812) [[code]](https://github.com/wzhouad/Contra-OOD)
 
-1. **** ** `` [[pdf]]() [[code]]()
+1. **Contrastive Fine-tuning Improves Robustness for Neural Rankers** *Xiaofei Ma, Cicero Nogueira dos Santos, Andrew O. Arnold* `Findings of ACL 2021` [[pdf]](https://arxiv.org/abs/2105.12932)
 
-1. **** ** `` [[pdf]]() [[code]]()
+1. **Contrastive Code Representation Learning** *Paras Jain, Ajay Jain, Tianjun Zhang, Pieter Abbeel, Joseph E. Gonzalez, Ion Stoica* `EMNLP 2021` [[pdf]](https://arxiv.org/abs/2007.04973) [[code]](https://github.com/parasj/contracode)
 
-1. **** ** `` [[pdf]]() [[code]]()
+1. **Active Learning by Acquiring Contrastive Examples** *Katerina Margatina, Giorgos Vernikos, Loïc Barrault, Nikolaos Aletras* `EMNLP 2021` [[pdf]](https://arxiv.org/abs/2109.03764) [[code]](https://github.com/mourga/contrastive-active-learning)
 
-1. **** ** `` [[pdf]]() [[code]]()
+1. **Knowledge Representation Learning with Contrastive Completion Coding** *Bo Ouyang, Wenbing Huang, Runfa Chen, Zhixing Tan, Yang Liu, Maosong Sun, Jihong Zhu* `Findings of EMNLP 2021` [[pdf]](https://aclanthology.org/2021.findings-emnlp.263.pdf)
 
-1. **** ** `` [[pdf]]() [[code]]()
+1. **Adversarial Training with Contrastive Learning in NLP** *Daniela N. Rim, DongNyeong Heo, Heeyoul Choi* `arXiv` [[pdf]](https://arxiv.org/abs/2109.09075)
+
+1. **Simple Contrastive Representation Adversarial Learning for NLP Tasks** *Deshui Miao, Jiaqi Zhang, Wenbo Xie, Jian Song, Xin Li, Lijuan Jia, Ning Guo* `arXiv` [[pdf]](https://arxiv.org/abs/2111.13301)
 
 ## Contributor
 [Rui Zhang](https://ryanzhumich.github.io/)
