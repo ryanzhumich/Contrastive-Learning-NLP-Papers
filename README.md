@@ -2,13 +2,13 @@
 <h2 align="center"> Contrastive Learning for Natural Language Processing Papers</h2>
 </p>
 
-## Tutorial and Survey
+## 1. Tutorial and Survey
 
 * **Contrastive Data and Learning for Natural Language Processing** *Rui Zhang, Yangfeng Ji, Yue Zhang, Rebecca J. Passonneau* `NAACL 2022 Tutotrial` [[website]](https://contrastive-nlp-tutorial.github.io/)
 
 * **A Primer on Contrastive Pretraining in Language Processing: Methods, Lessons Learned and Perspectives** *Nils Rethmeier, Isabelle Augenstein* [[pdf]](https://arxiv.org/abs/2102.12982)
 
-## Presentations and Blogs
+## 2. Presentations and Blogs
 
 * **Contrastive Representation Learning in Text** *Danqi Chen* [[slide]](https://cds.nyu.edu/wp-content/uploads/2021/11/TaD-Slides-Danqi-Chen-compressed.pdf)
 
@@ -18,7 +18,7 @@
 
 * **Phrase Retrieval and Beyond** *Jinhyuk Lee* [[blog]](https://princeton-nlp.github.io/phrase-retrieval-and-beyond/)
 
-## Foundations of Contrastive Learning
+## 3. Foundations of Contrastive Learning
 
 ### Contrastive Learning Objectives
 1. **Learning a similarity metric discriminatively, with application to face verification** *Sumit Chopra, Raia Hadsell, Yann LeCun* `CVPR 2005` [[pdf]](https://ieeexplore.ieee.org/abstract/document/1467314)
@@ -62,7 +62,7 @@
 
 1. **Poisoning and Backdooring Contrastive Learning** *Nicholas Carlini, Andreas Terzis* `ICLR 2022` [[pdf]](https://arxiv.org/abs/2106.09667)
 
-## Contrastive Learning for NLP
+## 4. Contrastive Learning for NLP
 
 ### Contrastive Data Augmentation for NLP
 
@@ -277,6 +277,8 @@
 1. **Understanding Hard Negatives in Noise Contrastive Estimation** *Wenzheng Zhang, Karl Stratos* `NAACL 2021` [[pdf]](https://arxiv.org/abs/2104.06245) [[code]](https://github.com/WenzhengZhang/hard-nce-el)
 
 1. **Scaling Deep Contrastive Learning Batch Size under Memory Limited Setup** *Luyu Gao, Yunyi Zhang, Jiawei Han, Jamie Callan* `RepL4NLP 2021` [[pdf]](https://arxiv.org/abs/2101.06983) [[code]](https://github.com/luyug/GradCache)
+
+1. **** ** `` [[pdf]]() [[code]]()
 
 1. **** ** `` [[pdf]]() [[code]]()
 
