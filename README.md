@@ -10,7 +10,7 @@ Current NLP models heavily rely on effective representation learning algorithms.
 
 * **A Primer on Contrastive Pretraining in Language Processing: Methods, Lessons Learned and Perspectives** *Nils Rethmeier, Isabelle Augenstein* [[pdf]](https://arxiv.org/abs/2102.12982)
 
-## 2. Presentations and Blogs
+## 2. Presentation and Blog
 
 * **Contrastive Representation Learning in Text** *Danqi Chen* [[slide]](https://cds.nyu.edu/wp-content/uploads/2021/11/TaD-Slides-Danqi-Chen-compressed.pdf)
 
@@ -20,9 +20,9 @@ Current NLP models heavily rely on effective representation learning algorithms.
 
 * **Phrase Retrieval and Beyond** *Jinhyuk Lee* [[blog]](https://princeton-nlp.github.io/phrase-retrieval-and-beyond/)
 
-## 3. Foundations of Contrastive Learning
+## 3. Foundation of Contrastive Learning
 
-### Contrastive Learning Objectives
+### Contrastive Learning Objective
 1. **Learning a similarity metric discriminatively, with application to face verification** *Sumit Chopra, Raia Hadsell, Yann LeCun* `CVPR 2005` [[pdf]](https://ieeexplore.ieee.org/abstract/document/1467314)
 
 1. **Facenet: A unified embedding for face recognition and clustering** *Florian Schroff, Dmitry Kalenichenko, and James Philbin* `CVPR 2015` [[pdf]](https://arxiv.org/abs/1503.03832)
