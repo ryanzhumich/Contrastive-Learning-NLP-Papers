@@ -18,6 +18,8 @@ Current NLP models heavily rely on effective representation learning algorithms.
 
 * **Contrastive Representation Learning** *Lilian Weng* [[blog]](https://lilianweng.github.io/posts/2021-05-31-contrastive/)
 
+* **Contrastive Self-Supervised Learning** *Ankesh Anand* [[blog]](https://ankeshanand.com/blog/2020/01/26/contrative-self-supervised-learning.html)
+
 * **Phrase Retrieval and Beyond** *Jinhyuk Lee* [[blog]](https://princeton-nlp.github.io/phrase-retrieval-and-beyond/)
 
 ## 3. Foundation of Contrastive Learning
