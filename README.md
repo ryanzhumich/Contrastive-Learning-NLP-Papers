@@ -10,6 +10,8 @@ Current NLP models heavily rely on effective representation learning algorithms.
 
 * **A Primer on Contrastive Pretraining in Language Processing: Methods, Lessons Learned and Perspectives** *Nils Rethmeier, Isabelle Augenstein* [[pdf]](https://arxiv.org/abs/2102.12982)
 
+* **A Survey on Contrastive Self-Supervised Learning** *Ashish Jaiswal, Ashwin Ramesh Babu, Mohammad Zaki Zadeh, Debapriya Banerjee, Fillia Makedon* [[pdf]](https://www.mdpi.com/2227-7080/9/1/2/htm)
+
 ## 2. Presentation and Blog
 
 * **Contrastive Representation Learning in Text** *Danqi Chen* [[slide]](https://cds.nyu.edu/wp-content/uploads/2021/11/TaD-Slides-Danqi-Chen-compressed.pdf)
