@@ -183,6 +183,8 @@ Current NLP models heavily rely on effective representation learning algorithms.
 
 ### Text Generation
 
+1. **Controllable Natural Language Generation with Contrastive Prefixes** *Jing Qian, Li Dong, Yelong Shen, Furu Wei, Weizhu Chen* `arXiv` [[pdf]](https://arxiv.org/abs/2202.13257) [[code]](https://github.com/yxuansu/SimCTG)
+
 1. **A Contrastive Framework for Neural Text Generation** *Yixuan Su, Tian Lan, Yan Wang, Dani Yogatama, Lingpeng Kong, Nigel Collier* `arXiv` [[pdf]](https://arxiv.org/abs/2202.06417) [[code]](https://github.com/yxuansu/SimCTG)
 
 1. **Counter-Contrastive Learning for Language GANs** *Yekun Chai, Haidong Zhang, Qiyue Yin, Junge Zhang* `Findings of EMNLP 2021` [[pdf]](https://aclanthology.org/2021.findings-emnlp.415.pdf)
