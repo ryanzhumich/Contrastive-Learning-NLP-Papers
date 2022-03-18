@@ -310,7 +310,7 @@ Current NLP models heavily rely on effective representation learning algorithms.
 
 1. **Simple Contrastive Representation Adversarial Learning for NLP Tasks** *Deshui Miao, Jiaqi Zhang, Wenbo Xie, Jian Song, Xin Li, Lijuan Jia, Ning Guo* `arXiv` [[pdf]](https://arxiv.org/abs/2111.13301)
 
-1. **SLearning To Retrieve Prompts for In-Context Learning** *Ohad Rubin, Jonathan Herzig, Jonathan Berant* `arXiv` [[pdf]](https://arxiv.org/abs/2112.08633)
+1. **Learning To Retrieve Prompts for In-Context Learning** *Ohad Rubin, Jonathan Herzig, Jonathan Berant* `arXiv` [[pdf]](https://arxiv.org/abs/2112.08633)
 
 ## Contributor
 [Rui Zhang](https://ryanzhumich.github.io/)
