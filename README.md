@@ -312,5 +312,7 @@ Current NLP models heavily rely on effective representation learning algorithms.
 
 1. **Learning To Retrieve Prompts for In-Context Learning** *Ohad Rubin, Jonathan Herzig, Jonathan Berant* `arXiv` [[pdf]](https://arxiv.org/abs/2112.08633)
 
+1. **RELiC: Retrieving Evidence for Literary Claims** *Katherine Thai, Yapei Chang, Kalpesh Krishna, Mohit Iyyer* `ACL 2022` [[pdf]](https://arxiv.org/abs/2203.10053)[[code]](https://relic.cs.umass.edu/)
+
 ## Contributor
 [Rui Zhang](https://ryanzhumich.github.io/)
