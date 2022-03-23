@@ -314,5 +314,10 @@ Current NLP models heavily rely on effective representation learning algorithms.
 
 1. **RELiC: Retrieving Evidence for Literary Claims** *Katherine Thai, Yapei Chang, Kalpesh Krishna, Mohit Iyyer* `ACL 2022` [[pdf]](https://arxiv.org/abs/2203.10053)[[code]](https://relic.cs.umass.edu/)
 
+1. **Multi-Level Contrastive Learning for Cross-Lingual Alignment** *Beiduo Chen, Wu Guo, Bin Gu, Quan Liu, Yongchao Wang* `ICASSP 2022` [[pdf]](https://arxiv.org/abs/2202.13083)
+
+1. **Multi-Scale Self-Contrastive Learning with Hard Negative Mining for Weakly-Supervised Query-based Video Grounding** *Shentong Mo, Daizong Liu, Wei Hu* `arXiv` [[pdf]](https://arxiv.org/abs/2203.03838)
+
+
 ## Contributor
 [Rui Zhang](https://ryanzhumich.github.io/)
