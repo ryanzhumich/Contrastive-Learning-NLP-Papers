@@ -68,6 +68,9 @@ Current NLP models heavily rely on effective representation learning algorithms.
 
 1. **Poisoning and Backdooring Contrastive Learning** *Nicholas Carlini, Andreas Terzis* `ICLR 2022` [[pdf]](https://arxiv.org/abs/2106.09667)
 
+1. **Understanding Dimensional Collapse in Contrastive Self-supervised Learning** *Li Jing, Pascal Vincent, Yann LeCun, Yuandong Tian* `ICLR 2022` [[pdf]](https://openreview.net/forum?id=YevsQ05DEN7)
+
+
 ## 4. Contrastive Learning for NLP
 
 ### Contrastive Data Augmentation for NLP
