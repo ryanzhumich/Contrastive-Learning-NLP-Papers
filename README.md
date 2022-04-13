@@ -70,6 +70,9 @@ Current NLP models heavily rely on effective representation learning algorithms.
 
 1. **Understanding Dimensional Collapse in Contrastive Self-supervised Learning** *Li Jing, Pascal Vincent, Yann LeCun, Yuandong Tian* `ICLR 2022` [[pdf]](https://openreview.net/forum?id=YevsQ05DEN7)
 
+1. **Beyond Separability: Analyzing the Linear Transferability of Contrastive Representations to Related Subpopulations** *Jeff Z. HaoChen, Colin Wei, Ananya Kumar, Tengyu Ma* `arXiv` [[pdf]](https://arxiv.org/abs/2204.02683)
+
+1. **Connect, Not Collapse: Explaining Contrastive Learning for Unsupervised Domain Adaptation** *Kendrick Shen, Robbie Jones, Ananya Kumar, Sang Michael Xie, Jeff Z. HaoChen, Tengyu Ma, Percy Liang* `arXiv` [[pdf]](https://arxiv.org/abs/2204.00570)
 
 ## 4. Contrastive Learning for NLP
 
