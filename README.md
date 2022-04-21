@@ -24,6 +24,14 @@ Current NLP models heavily rely on effective representation learning algorithms.
 
 * **Phrase Retrieval and Beyond** *Jinhyuk Lee* [[blog]](https://princeton-nlp.github.io/phrase-retrieval-and-beyond/)
 
+* **Advances in Understanding, Improving, and Applying Contrastive Learning** *Dan Fu* [[blog]](https://hazyresearch.stanford.edu/blog/2022-04-19-contrastive-1)
+
+* **Improving Transfer and Robustness in Supervised Contrastive Learning** *Mayee Chen* [[blog]](https://hazyresearch.stanford.edu/blog/2022-04-19-contrastive-2)
+
+* **TABi: Type-Aware Bi-Encoders for Open-Domain Entity Retrieval** *Megan Leszczynski* [[blog]](https://hazyresearch.stanford.edu/blog/2022-04-19-contrastive-3)
+
+
+
 ## 3. Foundation of Contrastive Learning
 
 ### Contrastive Learning Objective
@@ -73,6 +81,8 @@ Current NLP models heavily rely on effective representation learning algorithms.
 1. **Beyond Separability: Analyzing the Linear Transferability of Contrastive Representations to Related Subpopulations** *Jeff Z. HaoChen, Colin Wei, Ananya Kumar, Tengyu Ma* `arXiv` [[pdf]](https://arxiv.org/abs/2204.02683)
 
 1. **Connect, Not Collapse: Explaining Contrastive Learning for Unsupervised Domain Adaptation** *Kendrick Shen, Robbie Jones, Ananya Kumar, Sang Michael Xie, Jeff Z. HaoChen, Tengyu Ma, Percy Liang* `arXiv` [[pdf]](https://arxiv.org/abs/2204.00570)
+
+1. **Perfectly Balanced: Improving Transfer and Robustness of Supervised Contrastive Learning** *Mayee F. Chen, Daniel Y. Fu, Avanika Narayan, Michael Zhang, Zhao Song, Kayvon Fatahalian, Christopher Ré* `arXiv` [[pdf]](https://arxiv.org/abs/2204.07596)
 
 ## 4. Contrastive Learning for NLP
 
@@ -153,6 +163,8 @@ Current NLP models heavily rely on effective representation learning algorithms.
 1. **CLEVE: Contrastive Pre-training for Event Extraction** *Ziqi Wang, Xiaozhi Wang, Xu Han, Yankai Lin, Lei Hou, Zhiyuan Liu, Peng Li, Juanzi Li, Jie Zhou* `ACL 2021` [[pdf]](https://arxiv.org/abs/2105.14485) [[code]](https://github.com/THU-KEG/CLEVE)
 
 1. **CONTaiNER: Few-Shot Named Entity Recognition via Contrastive Learning** *Sarkar Snigdha Sarathi Das, Arzoo Katiyar, Rebecca J. Passonneau, Rui Zhang* `ACL 2022` [[pdf]](https://arxiv.org/abs/2109.07589) [[code]]()
+
+1. **TABi: Type-Aware Bi-Encoders for Open-Domain Entity Retrieval** *Megan Leszczynski, Daniel Y. Fu, Mayee F. Chen, Christopher Ré* `Findings of ACL 2022` [[pdf]](https://arxiv.org/abs/2204.08173)
 
 ### Sequence Labeling
 1. **Contrastive Estimation: Training Log-Linear Models on Unlabeled Data** *Noah A. Smith, Jason Eisner* `ACL 2005` [[pdf]](https://aclanthology.org/P05-1044.pdf)
