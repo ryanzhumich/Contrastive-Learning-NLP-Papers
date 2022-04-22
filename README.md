@@ -154,6 +154,9 @@ Current NLP models heavily rely on effective representation learning algorithms.
 
 1. **Contextualized and Generalized Sentence Representations by Contrastive Self-Supervised Learning: A Case Study on Discourse Relation Analysis** *Hirokazu Kiyomaru, Sadao Kurohashi* `NAACL 2021` [[pdf]](https://aclanthology.org/2021.naacl-main.442.pdf)
 
+1. **DiffCSE: Difference-based Contrastive Learning for Sentence Embeddings** *Yung-Sung Chuang, Rumen Dangovski, Hongyin Luo, Yang Zhang, Shiyu Chang, Marin Soljačić, Shang-Wen Li, Wen-tau Yih, Yoon Kim, James Glass* `NAACL 2022` [[pdf]](https://arxiv.org/abs/2204.10298) [[code]](https://github.com/voidism/DiffCSE)
+
+
 ### Information Extraction
 
 1. **ERICA: Improving Entity and Relation Understanding for Pre-trained Language Models via Contrastive Learning** *Yujia Qin, Yankai Lin, Ryuichi Takanobu, Zhiyuan Liu, Peng Li, Heng Ji, Minlie Huang, Maosong Sun, Jie Zhou* `ACL 2021` [[pdf]](https://arxiv.org/abs/2012.15022) [[code]](https://github.com/thunlp/ERICA)
@@ -254,6 +257,8 @@ Current NLP models heavily rely on effective representation learning algorithms.
 
 1. **Multi-Granularity Contrasting for Cross-Lingual Pre-Training** *Shicheng Li, Pengcheng Yang, Fuli Luo, Jun Xie* `Findings of ACL 2021` [[pdf]](https://aclanthology.org/2021.findings-acl.149.pdf)
 
+
+
 ### Interpretability and Explainability
 
 1. **Evaluating Models' Local Decision Boundaries via Contrast Sets** *Matt Gardner, Yoav Artzi, Victoria Basmova, Jonathan Berant, Ben Bogin, Sihao Chen, Pradeep Dasigi, Dheeru Dua, Yanai Elazar, Ananth Gottumukkala, Nitish Gupta, Hanna Hajishirzi, Gabriel Ilharco, Daniel Khashabi, Kevin Lin, Jiangming Liu, Nelson F. Liu, Phoebe Mulcaire, Qiang Ning, Sameer Singh, Noah A. Smith, Sanjay Subramanian, Reut Tsarfaty, Eric Wallace, Ally Zhang, Ben Zhou* `arXiv` [[pdf]](https://arxiv.org/abs/2004.02709)
@@ -265,6 +270,8 @@ Current NLP models heavily rely on effective representation learning algorithms.
 1. **KACE: Generating Knowledge Aware Contrastive Explanations for Natural Language Inference** *Qianglong Chen, Feng Ji, Xiangji Zeng, Feng-Lin Li, Ji Zhang, Haiqing Chen, Yin Zhang* `ACL 2021` [[pdf]](https://aclanthology.org/2021.acl-long.196.pdf)
 
 1. **Contrastive Explanations for Model Interpretability** *Alon Jacovi, Swabha Swayamdipta, Shauli Ravfogel, Yanai Elazar, Yejin Choi, Yoav Goldberg* `EMNLP 2021` [[pdf]](https://arxiv.org/abs/2103.01378) [[code]](https://github.com/allenai/contrastive-explanations)
+
+1. **Explanation Graph Generation via Pre-trained Language Models: An Empirical Study with Contrastive Learning** *Swarnadeep Saha, Prateek Yadav, Mohit Bansal* `ACL 2022` [[pdf]](https://arxiv.org/abs/2204.04813) [[code]](https://github.com/swarnaHub/ExplagraphGen)
 
 ### Commonsense Knowledge and Reasoning
 
@@ -338,6 +345,7 @@ Current NLP models heavily rely on effective representation learning algorithms.
 
 1. **Multi-Scale Self-Contrastive Learning with Hard Negative Mining for Weakly-Supervised Query-based Video Grounding** *Shentong Mo, Daizong Liu, Wei Hu* `arXiv` [[pdf]](https://arxiv.org/abs/2203.03838)
 
+1. **Contrastive Demonstration Tuning for Pre-trained Language Models** *Xiaozhuan Liang, Ningyu Zhang, Siyuan Cheng, Zhen Bi, Zhenru Zhang, Chuanqi Tan, Songfang Huang, Fei Huang, Huajun Chen* `arXiv` [[pdf]](https://arxiv.org/abs/2204.04392)[[code]](https://github.com/zjunlp/PromptKG/tree/main/research/Demo-Tuning)
 
 ## Contributor
 [Rui Zhang](https://ryanzhumich.github.io/)
