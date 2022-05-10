@@ -384,5 +384,7 @@ Current NLP models heavily rely on effective representation learning algorithms.
 
 1. **GL-CLeF: A Global-Local Contrastive Learning Framework for Cross-lingual Spoken Language Understanding** *Libo Qin, Qiguang Chen, Tianbao Xie, Qixin Li, Jian-Guang Lou, Wanxiang Che, Min-Yen Kan* `arXiv` [[pdf]](https://arxiv.org/abs/2204.08325)[[code]](https://github.com/LightChen233/GL-CLeF)
 
+1. **Zero-Shot Stance Detection via Contrastive Learning** *Bin Liang, Zixiao Chen, Lin Gui, Yulan He, Min Yang, and Ruifeng Xu* `WWW 2022` [[pdf]](https://dl.acm.org/doi/10.1145/3485447.3511994)[[code]](https://github.com/HITSZ-HLT/PT-HCL)
+
 ## Contributor
 Please contact [Rui Zhang](https://ryanzhumich.github.io/) if you want to add any references!
