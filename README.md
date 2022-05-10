@@ -4,6 +4,31 @@
 
 Current NLP models heavily rely on effective representation learning algorithms. Contrastive learning is one such technique to learn an embedding space such that similar data sample pairs have close representations while dissimilar samples stay far apart from each other. It can be used in supervised or unsupervised settings using different loss functions to produce task-specific or general-purpose representations. While it has originally enabled the success for vision tasks, recent years have seen a growing number of publications in contrastive NLP. This first line of works not only delivers promising performance improvements in various NLP tasks, but also provides desired characteristics such as task-agnostic sentence representation, faithful text generation, data-efficient learning in zero-shot and few-shot settings, interpretability and explainability.
 
+- [Tutorial and Survey](#1-tutorial-and-survey)
+- [Presentation and Blog](#2-presentation-and-blog)
+- [Foundation of Contrastive Learning](#3-foundation-of-contrastive-learning)
+    - [Contrastive Learning Objective](#contrastive-learning-objective)
+    - [Sampling Strategy for Contrastive Learning](#sampling-strategy-for-contrastive-learning)
+    - [Most Notable Applications of Contrastive Learning](#most-notable-applications-of-contrastive-learning)
+    - [Analysis of Contrastive Learning](#analysis-of-contrastive-learning)
+    - [Graph Contrastive Learning](#graph-contrastive-learning)
+- [Contrastive Learning for NLP](#4-contrastive-learning-for-nlp)
+    - [Contrastive Data Augmentation for NLP](#contrastive-data-augmentation-for-nlp)
+    - [Text Classification](#text-classification)
+    - [Sentence Embeddings and Phrase Embeddings](#sentence-embeddings-and-phrase-embeddings)
+    - [Information Extraction](#information-extraction)
+    - [Sequence Labeling](#sequence-labeling)
+    - [Machine Translation](#machine-translation)
+    - [Question Answering](#question-answering)
+    - [Summarization](#summarization)
+    - [Text Generation](#text-generation)
+    - [Few-shot Learning](#few-shot-learning)
+    - [Contrastive Pretraining](#contrastive-pretraining)
+    - [Interpretability and Explainability](#interpretability-and-explainability)
+    - [Commonsense Knowledge and Reasoning](#commonsense-knowledge-and-reasoning)
+    - [Vision-and-Language](#vision-and-language)
+    - [Others](#others)
+
 ## 1. Tutorial and Survey
 
 * **Contrastive Data and Learning for Natural Language Processing** *Rui Zhang, Yangfeng Ji, Yue Zhang, Rebecca J. Passonneau* `NAACL 2022 Tutorial` [[website]](https://contrastive-nlp-tutorial.github.io/)
@@ -83,6 +108,14 @@ Current NLP models heavily rely on effective representation learning algorithms.
 1. **Connect, Not Collapse: Explaining Contrastive Learning for Unsupervised Domain Adaptation** *Kendrick Shen, Robbie Jones, Ananya Kumar, Sang Michael Xie, Jeff Z. HaoChen, Tengyu Ma, Percy Liang* `arXiv` [[pdf]](https://arxiv.org/abs/2204.00570)
 
 1. **Perfectly Balanced: Improving Transfer and Robustness of Supervised Contrastive Learning** *Mayee F. Chen, Daniel Y. Fu, Avanika Narayan, Michael Zhang, Zhao Song, Kayvon Fatahalian, Christopher Ré* `arXiv` [[pdf]](https://arxiv.org/abs/2204.07596)
+
+### Graph Contrastive Learning
+
+1. **Graph Contrastive Learning with Augmentations** *Yuning You, Tianlong Chen, Yongduo Sui, Ting Chen, Zhangyang Wang, Yang Shen* `NeurIPS 2020` [[pdf]](https://arxiv.org/abs/2010.13902)[[code]](https://github.com/Shen-Lab/GraphCL)
+
+1. **Contrastive Multi-View Representation Learning on Graphs** *Kaveh Hassani, Amir Hosein Khasahmadi* `ICML 2020` [[pdf]](https://arxiv.org/abs/2006.05582)
+
+1. **Deep Graph Contrastive Representation Learning** *Yanqiao Zhu, Yichen Xu, Feng Yu, Qiang Liu, Shu Wu, Liang Wang* `ICML Workshop on Graph Representation Learning and Beyond` [[pdf]](https://arxiv.org/abs/2006.04131)[[code]](https://github.com/CRIPAC-DIG/GRACE)
 
 ## 4. Contrastive Learning for NLP
 
@@ -228,6 +261,8 @@ Current NLP models heavily rely on effective representation learning algorithms.
 
 1. **Learning with Contrastive Examples for Data-to-Text Generation** *Yui Uehara, Tatsuya Ishigaki, Kasumi Aoki, Hiroshi Noji, Keiichi Goshima, Ichiro Kobayashi, Hiroya Takamura, Yusuke Miyao* `COLING 2020` [[pdf]](https://aclanthology.org/2020.coling-main.213.pdf) [[code]](https://github.com/aistairc/contrastive_data2text)
 
+1. **A Simple Contrastive Learning Objective for Alleviating Neural Text Degeneration** *Shaojie Jiang, Ruqing Zhang, Svitlana Vakulenko, Maarten de Rijke* `arXiv` [[pdf]](https://arxiv.org/abs/2205.02517)[[code]](https://github.com/ShaojieJiang/CT-Loss)
+
 ### Few-shot Learning
 
 1. **An Explicit-Joint and Supervised-Contrastive Learning Framework for Few-Shot Intent Classification and Slot Filling** *Han Liu, Feng Zhang, Xiaotong Zhang, Siyang Zhao, Xianchao Zhang* `Findings of EMNLP 2021` [[pdf]](https://arxiv.org/abs/2110.13691)
@@ -347,5 +382,7 @@ Current NLP models heavily rely on effective representation learning algorithms.
 
 1. **Contrastive Demonstration Tuning for Pre-trained Language Models** *Xiaozhuan Liang, Ningyu Zhang, Siyuan Cheng, Zhen Bi, Zhenru Zhang, Chuanqi Tan, Songfang Huang, Fei Huang, Huajun Chen* `arXiv` [[pdf]](https://arxiv.org/abs/2204.04392)[[code]](https://github.com/zjunlp/PromptKG/tree/main/research/Demo-Tuning)
 
+1. **GL-CLeF: A Global-Local Contrastive Learning Framework for Cross-lingual Spoken Language Understanding** *Libo Qin, Qiguang Chen, Tianbao Xie, Qixin Li, Jian-Guang Lou, Wanxiang Che, Min-Yen Kan* `arXiv` [[pdf]](https://arxiv.org/abs/2204.08325)[[code]](https://github.com/LightChen233/GL-CLeF)
+
 ## Contributor
-[Rui Zhang](https://ryanzhumich.github.io/)
+Please contact [Rui Zhang](https://ryanzhumich.github.io/) if you want to add any references!
