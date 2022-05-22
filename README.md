@@ -198,9 +198,11 @@ Current NLP models heavily rely on effective representation learning algorithms.
 
 1. **CLEVE: Contrastive Pre-training for Event Extraction** *Ziqi Wang, Xiaozhi Wang, Xu Han, Yankai Lin, Lei Hou, Zhiyuan Liu, Peng Li, Juanzi Li, Jie Zhou* `ACL 2021` [[pdf]](https://arxiv.org/abs/2105.14485) [[code]](https://github.com/THU-KEG/CLEVE)
 
-1. **CONTaiNER: Few-Shot Named Entity Recognition via Contrastive Learning** *Sarkar Snigdha Sarathi Das, Arzoo Katiyar, Rebecca J. Passonneau, Rui Zhang* `ACL 2022` [[pdf]](https://arxiv.org/abs/2109.07589) [[code]]()
+1. **CONTaiNER: Few-Shot Named Entity Recognition via Contrastive Learning** *Sarkar Snigdha Sarathi Das, Arzoo Katiyar, Rebecca J. Passonneau, Rui Zhang* `ACL 2022` [[pdf]](https://arxiv.org/abs/2109.07589) [[code]](https://github.com/psunlpgroup/CONTaiNER)
 
 1. **TABi: Type-Aware Bi-Encoders for Open-Domain Entity Retrieval** *Megan Leszczynski, Daniel Y. Fu, Mayee F. Chen, Christopher Ré* `Findings of ACL 2022` [[pdf]](https://arxiv.org/abs/2204.08173)
+
+1. **Cross-Lingual Contrastive Learning for Fine-Grained Entity Typing for Low-Resource Languages** *Xu Han, Yuqi Luo, Weize Chen, Zhiyuan Liu, Maosong Sun, Zhou Botong, Hao Fei, Suncong Zheng* `ACL 2022` [[pdf]](https://aclanthology.org/2022.acl-long.159/) [[code]](https://github.com/thunlp/crosset)
 
 ### Sequence Labeling
 1. **Contrastive Estimation: Training Log-Linear Models on Unlabeled Data** *Noah A. Smith, Jason Eisner* `ACL 2005` [[pdf]](https://aclanthology.org/P05-1044.pdf)
@@ -385,6 +387,8 @@ Current NLP models heavily rely on effective representation learning algorithms.
 1. **GL-CLeF: A Global-Local Contrastive Learning Framework for Cross-lingual Spoken Language Understanding** *Libo Qin, Qiguang Chen, Tianbao Xie, Qixin Li, Jian-Guang Lou, Wanxiang Che, Min-Yen Kan* `arXiv` [[pdf]](https://arxiv.org/abs/2204.08325)[[code]](https://github.com/LightChen233/GL-CLeF)
 
 1. **Zero-Shot Stance Detection via Contrastive Learning** *Bin Liang, Zixiao Chen, Lin Gui, Yulan He, Min Yang, and Ruifeng Xu* `WWW 2022` [[pdf]](https://dl.acm.org/doi/10.1145/3485447.3511994)[[code]](https://github.com/HITSZ-HLT/PT-HCL)
+
+1. **Multi-level Contrastive Learning for Cross-lingual Spoken Language Understanding** *Shining Liang, Linjun Shou, Jian Pei, Ming Gong, Wanli Zuo, Xianglin Zuo, Daxin Jiang* `arXiv` [[pdf]](https://arxiv.org/abs/2205.03656)
 
 ## Contributor
 Please contact [Rui Zhang](https://ryanzhumich.github.io/) if you want to add any references!
