@@ -109,6 +109,8 @@ Current NLP models heavily rely on effective representation learning algorithms.
 
 1. **Perfectly Balanced: Improving Transfer and Robustness of Supervised Contrastive Learning** *Mayee F. Chen, Daniel Y. Fu, Avanika Narayan, Michael Zhang, Zhao Song, Kayvon Fatahalian, Christopher Ré* `arXiv` [[pdf]](https://arxiv.org/abs/2204.07596)
 
+1. **Intriguing Properties of Contrastive Losses** *Ting Chen, Calvin Luo, Lala Li* `NeurIPS 2021` [[pdf]](https://proceedings.neurips.cc/paper/2021/file/628f16b29939d1b060af49f66ae0f7f8-Paper.pdf)
+
 ### Graph Contrastive Learning
 
 1. **Graph Contrastive Learning with Augmentations** *Yuning You, Tianlong Chen, Yongduo Sui, Ting Chen, Zhangyang Wang, Yang Shen* `NeurIPS 2020` [[pdf]](https://arxiv.org/abs/2010.13902)[[code]](https://github.com/Shen-Lab/GraphCL)
@@ -337,6 +339,8 @@ Current NLP models heavily rely on effective representation learning algorithms.
 1. **UMIC: An Unreferenced Metric for Image Captioning via Contrastive Learning** *Hwanhee Lee, Seunghyun Yoon, Franck Dernoncourt, Trung Bui, Kyomin Jung* `ACL 2021` [[pdf]](https://arxiv.org/abs/2106.14019) [[code]](https://github.com/hwanheelee1993/UMIC)
 
 1. **BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation** *Junnan Li, Dongxu Li, Caiming Xiong, Steven Hoi* `arXiv` [[pdf]](https://arxiv.org/abs/2201.12086) [[code]](https://github.com/salesforce/BLIP)
+
+1. **CyCLIP: Cyclic Contrastive Language-Image Pretraining** *Shashank Goel, Hritik Bansal, Sumit Bhatia, Ryan A. Rossi, Vishwa Vinay, Aditya Grover* `arXiv` [[pdf]](https://arxiv.org/abs/2205.14459) [[code]](https://github.com/goel-shashank/CyCLIP)
 
 ### Others
 
