@@ -5,7 +5,7 @@
 Current NLP models heavily rely on effective representation learning algorithms. Contrastive learning is one such technique to learn an embedding space such that similar data sample pairs have close representations while dissimilar samples stay far apart from each other. It can be used in supervised or unsupervised settings using different loss functions to produce task-specific or general-purpose representations. While it has originally enabled the success for vision tasks, recent years have seen a growing number of publications in contrastive NLP. This first line of works not only delivers promising performance improvements in various NLP tasks, but also provides desired characteristics such as task-agnostic sentence representation, faithful text generation, data-efficient learning in zero-shot and few-shot settings, interpretability and explainability.
 
 - [Tutorial and Survey](#1-tutorial-and-survey)
-- [Presentation and Blog](#2-presentation-and-blog)
+- [Talk, Presentation, and Blog](#2-talk-presentation-and-blog)
 - [Foundation of Contrastive Learning](#3-foundation-of-contrastive-learning)
     - [Contrastive Learning Objective](#contrastive-learning-objective)
     - [Sampling Strategy for Contrastive Learning](#sampling-strategy-for-contrastive-learning)
@@ -22,7 +22,7 @@ Current NLP models heavily rely on effective representation learning algorithms.
     - [Question Answering](#question-answering)
     - [Summarization](#summarization)
     - [Text Generation](#text-generation)
-    - [Few-shot Learning](#few-shot-learning)
+    - [Zero-shot, Few-shot, Active Learning](#zero-shot-few-shot-active-learning)
     - [Contrastive Pretraining](#contrastive-pretraining)
     - [Interpretability and Explainability](#interpretability-and-explainability)
     - [Commonsense Knowledge and Reasoning](#commonsense-knowledge-and-reasoning)
@@ -37,7 +37,7 @@ Current NLP models heavily rely on effective representation learning algorithms.
 
 * **A Survey on Contrastive Self-Supervised Learning** *Ashish Jaiswal, Ashwin Ramesh Babu, Mohammad Zaki Zadeh, Debapriya Banerjee, Fillia Makedon* [[pdf]](https://www.mdpi.com/2227-7080/9/1/2/htm)
 
-## 2. Presentation and Blog
+## 2. Talk, Presentation, and Blog
 
 * **Contrastive Representation Learning in Text** *Danqi Chen* [[slide]](https://cds.nyu.edu/wp-content/uploads/2021/11/TaD-Slides-Danqi-Chen-compressed.pdf)
 
@@ -46,6 +46,14 @@ Current NLP models heavily rely on effective representation learning algorithms.
 * **Contrastive Representation Learning** *Lilian Weng* [[blog]](https://lilianweng.github.io/posts/2021-05-31-contrastive/)
 
 * **Contrastive Self-Supervised Learning** *Ankesh Anand* [[blog]](https://ankeshanand.com/blog/2020/01/26/contrative-self-supervised-learning.html)
+
+* **Triplet Loss and Online Triplet Mining in TensorFlow** *Olivier Moindrot* [[blog]](https://omoindrot.github.io/triplet-loss)
+
+* **Understanding Ranking Loss, Contrastive Loss, Margin Loss, Triplet Loss, Hinge Loss and all those confusing names** *Raúl Gómez* [[blog]](https://gombru.github.io/2019/04/03/ranking_loss/)
+
+* **Contrastive Learning in 3 Minutes** *Ta-Ying Cheng* [[blog]](https://towardsdatascience.com/contrastive-learning-in-3-minutes-89d9a7db5a28)
+
+* **Demystifying Noise Contrastive Estimation** *Jack Morris* [[blog]](https://jxmo.io/posts/nce)
 
 * **Phrase Retrieval and Beyond** *Jinhyuk Lee* [[blog]](https://princeton-nlp.github.io/phrase-retrieval-and-beyond/)
 
@@ -85,6 +93,10 @@ Current NLP models heavily rely on effective representation learning algorithms.
 
 1. **Adversarial Self-Supervised Contrastive Learning** *Minseon Kim, Jihoon Tack, Sung Ju Hwang* `NeurIPS 2020` [[pdf]](https://arxiv.org/abs/2006.07589) [[code]](https://github.com/Kim-Minseon/RoCL)
 
+1. **Decoupled Contrastive Learning** *Chun-Hsiao Yeh, Cheng-Yao Hong, Yen-Chi Hsu, Tyng-Luh Liu, Yubei Chen, Yann LeCun* `arXiv` [[pdf]](https://arxiv.org/abs/2110.06848) [[code]](https://github.com/Kim-Minseon/RoCL)
+
+1. **Momentum Contrast for Unsupervised Visual Representation Learning** *Kaiming He, Haoqi Fan, Yuxin Wu, Saining Xie, Ross Girshick* `CVPR 2020` [[pdf]](https://arxiv.org/abs/1911.05722) [[code]](https://github.com/facebookresearch/moco)
+
 ### Most Notable Applications of Contrastive Learning 
 1. **Efficient Estimation of Word Representations in Vector Space** *Tomas Mikolov, Kai Chen, Greg Corrado, Jeffrey Dean* `arXiv` [[pdf]](https://arxiv.org/abs/1301.3781)
 
@@ -110,6 +122,8 @@ Current NLP models heavily rely on effective representation learning algorithms.
 1. **Perfectly Balanced: Improving Transfer and Robustness of Supervised Contrastive Learning** *Mayee F. Chen, Daniel Y. Fu, Avanika Narayan, Michael Zhang, Zhao Song, Kayvon Fatahalian, Christopher Ré* `arXiv` [[pdf]](https://arxiv.org/abs/2204.07596)
 
 1. **Intriguing Properties of Contrastive Losses** *Ting Chen, Calvin Luo, Lala Li* `NeurIPS 2021` [[pdf]](https://proceedings.neurips.cc/paper/2021/file/628f16b29939d1b060af49f66ae0f7f8-Paper.pdf)
+
+1. **Rethinking InfoNCE: How Many Negative Samples Do You Need?** *Chuhan Wu, Fangzhao Wu, Yongfeng Huang* `arXiv` [[pdf]](https://arxiv.org/abs/2105.13003)
 
 ### Graph Contrastive Learning
 
@@ -267,13 +281,15 @@ Current NLP models heavily rely on effective representation learning algorithms.
 
 1. **A Simple Contrastive Learning Objective for Alleviating Neural Text Degeneration** *Shaojie Jiang, Ruqing Zhang, Svitlana Vakulenko, Maarten de Rijke* `arXiv` [[pdf]](https://arxiv.org/abs/2205.02517)[[code]](https://github.com/ShaojieJiang/CT-Loss)
 
-### Few-shot Learning
+### Zero-shot, Few-shot, Active Learning
 
 1. **An Explicit-Joint and Supervised-Contrastive Learning Framework for Few-Shot Intent Classification and Slot Filling** *Han Liu, Feng Zhang, Xiaotong Zhang, Siyang Zhao, Xianchao Zhang* `Findings of EMNLP 2021` [[pdf]](https://arxiv.org/abs/2110.13691)
 
 1. **Few-Shot Intent Detection via Contrastive Pre-Training and Fine-Tuning** *Jianguo Zhang, Trung Bui, Seunghyun Yoon, Xiang Chen, Zhiwei Liu, Congying Xia, Quan Hung Tran, Walter Chang, Philip Yu* `EMNLP 2021` [[pdf]](https://arxiv.org/abs/2109.06349) [[code]](https://github.com/jianguoz/Few-Shot-Intent-Detection)
 
 1. **Bridge to Target Domain by Prototypical Contrastive Learning and Label Confusion: Re-explore Zero-Shot Learning for Slot Filling** *Liwen Wang, Xuefeng Li, Jiachi Liu, Keqing He, Yuanmeng Yan, Weiran Xu* `EMNLP 2021` [[pdf]](https://arxiv.org/abs/2110.03572) [[code]](https://github.com/W-lw/PCLC)
+
+1. **Active Learning by Acquiring Contrastive Examples** *Katerina Margatina, Giorgos Vernikos, Loïc Barrault, Nikolaos Aletras* `EMNLP 2021` [[pdf]](https://arxiv.org/abs/2109.03764) [[code]](https://github.com/mourga/contrastive-active-learning)
 
 1. **Bi-Granularity Contrastive Learning for Post-Training in Few-Shot Scene** *Ruikun Luo, Guanhuan Huang, Xiaojun Quan* `Findings of ACL 2021` [[pdf]](https://arxiv.org/abs/2106.02327)
 
