@@ -97,6 +97,8 @@ Current NLP models heavily rely on effective representation learning algorithms.
 
 1. **Momentum Contrast for Unsupervised Visual Representation Learning** *Kaiming He, Haoqi Fan, Yuxin Wu, Saining Xie, Ross Girshick* `CVPR 2020` [[pdf]](https://arxiv.org/abs/1911.05722) [[code]](https://github.com/facebookresearch/moco)
 
+1. **Contrastive Multiview Coding** *Yonglong Tian, Dilip Krishnan, Phillip Isola* `arXiv 2019` [[pdf]](https://arxiv.org/abs/1906.05849) [[code]](http://github.com/HobbitLong/CMC/)
+
 ### Most Notable Applications of Contrastive Learning 
 1. **Efficient Estimation of Word Representations in Vector Space** *Tomas Mikolov, Kai Chen, Greg Corrado, Jeffrey Dean* `arXiv` [[pdf]](https://arxiv.org/abs/1301.3781)
 
@@ -115,13 +117,15 @@ Current NLP models heavily rely on effective representation learning algorithms.
 
 1. **Understanding Dimensional Collapse in Contrastive Self-supervised Learning** *Li Jing, Pascal Vincent, Yann LeCun, Yuandong Tian* `ICLR 2022` [[pdf]](https://openreview.net/forum?id=YevsQ05DEN7)
 
-1. **Beyond Separability: Analyzing the Linear Transferability of Contrastive Representations to Related Subpopulations** *Jeff Z. HaoChen, Colin Wei, Ananya Kumar, Tengyu Ma* `arXiv` [[pdf]](https://arxiv.org/abs/2204.02683)
+1. **Provable Guarantees for Self-Supervised Deep Learning with Spectral Contrastive Loss** *Jeff Z. HaoChen, Colin Wei, Adrien Gaidon, Tengyu Ma* `NeurIPS 2021` [[pdf]](https://arxiv.org/abs/2106.04156)
 
-1. **Connect, Not Collapse: Explaining Contrastive Learning for Unsupervised Domain Adaptation** *Kendrick Shen, Robbie Jones, Ananya Kumar, Sang Michael Xie, Jeff Z. HaoChen, Tengyu Ma, Percy Liang* `arXiv` [[pdf]](https://arxiv.org/abs/2204.00570)
+1. **Beyond Separability: Analyzing the Linear Transferability of Contrastive Representations to Related Subpopulations** *Jeff Z. HaoChen, Colin Wei, Ananya Kumar, Tengyu Ma* `arXiv 2022` [[pdf]](https://arxiv.org/abs/2204.02683)
+
+1. **Connect, Not Collapse: Explaining Contrastive Learning for Unsupervised Domain Adaptation** *Kendrick Shen, Robbie Jones, Ananya Kumar, Sang Michael Xie, Jeff Z. HaoChen, Tengyu Ma, Percy Liang* `arXiv 2022` [[pdf]](https://arxiv.org/abs/2204.00570)
 
 1. **Perfectly Balanced: Improving Transfer and Robustness of Supervised Contrastive Learning** *Mayee F. Chen, Daniel Y. Fu, Avanika Narayan, Michael Zhang, Zhao Song, Kayvon Fatahalian, Christopher Ré* `arXiv` [[pdf]](https://arxiv.org/abs/2204.07596)
 
-1. **Intriguing Properties of Contrastive Losses** *Ting Chen, Calvin Luo, Lala Li* `NeurIPS 2021` [[pdf]](https://proceedings.neurips.cc/paper/2021/file/628f16b29939d1b060af49f66ae0f7f8-Paper.pdf)
+1. **Intriguing Properties of Contrastive Losses** *Ting Chen, Calvin Luo, Lala Li* `NeurIPS 2021` [[pdf]](https://proceedings.neurips.cc/paper/2021/file/628f16b29939d1b060af49f66ae0f7f8-Paper.pdf) [[code]](https://contrastive-learning.github.io/intriguing/)
 
 1. **Rethinking InfoNCE: How Many Negative Samples Do You Need?** *Chuhan Wu, Fangzhao Wu, Yongfeng Huang* `arXiv` [[pdf]](https://arxiv.org/abs/2105.13003)
 
@@ -357,6 +361,8 @@ Current NLP models heavily rely on effective representation learning algorithms.
 1. **BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation** *Junnan Li, Dongxu Li, Caiming Xiong, Steven Hoi* `arXiv` [[pdf]](https://arxiv.org/abs/2201.12086) [[code]](https://github.com/salesforce/BLIP)
 
 1. **CyCLIP: Cyclic Contrastive Language-Image Pretraining** *Shashank Goel, Hritik Bansal, Sumit Bhatia, Ryan A. Rossi, Vishwa Vinay, Aditya Grover* `arXiv` [[pdf]](https://arxiv.org/abs/2205.14459) [[code]](https://github.com/goel-shashank/CyCLIP)
+
+1. **Learning Video Representations using Contrastive Bidirectional Transformer** *Chen Sun, Fabien Baradel, Kevin Murphy, Cordelia Schmid* `arXiv` [[pdf]](https://arxiv.org/abs/1906.05743)
 
 ### Others
 
