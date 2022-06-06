@@ -107,11 +107,19 @@ Current NLP models heavily rely on effective representation learning algorithms.
 1. **Learning Transferable Visual Models From Natural Language Supervision** *Alec Radford, Jong Wook Kim, Chris Hallacy, Aditya Ramesh, Gabriel Goh, Sandhini Agarwal, Girish Sastry, Amanda Askell, Pamela Mishkin, Jack Clark, Gretchen Krueger, Ilya Sutskever* `arXiv` [[pdf]](https://arxiv.org/abs/2103.00020) [[code]](https://github.com/OpenAI/CLIP)
 
 ### Analysis of Contrastive Learning
+
+1. **A Theoretical Analysis of Contrastive Unsupervised Representation Learning** *Sanjeev Arora, Hrishikesh Khandeparkar, Mikhail Khodak, Orestis Plevrakis, Nikunj Saunshi* `ICML 2019` [[pdf]](https://arxiv.org/abs/1902.09229)
+
+1. **Understanding Contrastive Representation Learning through Alignment and Uniformity on the Hypersphere** *Tongzhou Wang, Phillip Isola* `ICML 2020` [[pdf]](https://arxiv.org/abs/2005.10242) [[code]](https://github.com/SsnL/align_uniform)
+
 1. **What Makes for Good Views for Contrastive Learning?** *Yonglong Tian, Chen Sun, Ben Poole, Dilip Krishnan, Cordelia Schmid, Phillip Isola* `NeurIPS 2020` [[pdf]](https://arxiv.org/abs/2005.10243) [[code]](https://hobbitlong.github.io/InfoMin/)
 
 1. **Demystifying Contrastive Self-Supervised Learning: Invariances, Augmentations and Dataset Biases** *Senthil Purushwalkam, Abhinav Gupta* `NeurIPS 2020` [[pdf]](https://arxiv.org/abs/2007.13916)
 
 1. **What Should Not Be Contrastive in Contrastive Learning** *Tete Xiao, Xiaolong Wang, Alexei A. Efros, Trevor Darrell* `ICLR 2021` [[pdf]](https://arxiv.org/abs/2008.05659)
+
+1. **Dissecting Supervised Contrastive Learning** *Florian Graf, Christoph D. Hofer, Marc Niethammer, Roland Kwitt* `ICML 2021` [[pdf]](https://arxiv.org/abs/2102.08817) [[code]](https://github.com/plus-rkwitt/py_supcon_vs_ce)
+
 
 1. **Poisoning and Backdooring Contrastive Learning** *Nicholas Carlini, Andreas Terzis* `ICLR 2022` [[pdf]](https://arxiv.org/abs/2106.09667)
 
