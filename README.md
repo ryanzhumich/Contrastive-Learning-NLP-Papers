@@ -97,6 +97,8 @@ Current NLP models heavily rely on effective representation learning algorithms.
 
 1. **Momentum Contrast for Unsupervised Visual Representation Learning** *Kaiming He, Haoqi Fan, Yuxin Wu, Saining Xie, Ross Girshick* `CVPR 2020` [[pdf]](https://arxiv.org/abs/1911.05722) [[code]](https://github.com/facebookresearch/moco)
 
+1. **Unsupervised Learning of Visual Features by Contrasting Cluster Assignments** *Mathilde Caron, Ishan Misra, Julien Mairal, Priya Goyal, Piotr Bojanowski, Armand Joulin* `NeurIPS 2020` [[pdf]](https://arxiv.org/abs/2006.09882) [[code]](https://github.com/facebookresearch/swav)
+
 1. **Contrastive Multiview Coding** *Yonglong Tian, Dilip Krishnan, Phillip Isola* `arXiv 2019` [[pdf]](https://arxiv.org/abs/1906.05849) [[code]](http://github.com/HobbitLong/CMC/)
 
 ### Most Notable Applications of Contrastive Learning 
@@ -120,6 +122,7 @@ Current NLP models heavily rely on effective representation learning algorithms.
 
 1. **Dissecting Supervised Contrastive Learning** *Florian Graf, Christoph D. Hofer, Marc Niethammer, Roland Kwitt* `ICML 2021` [[pdf]](https://arxiv.org/abs/2102.08817) [[code]](https://github.com/plus-rkwitt/py_supcon_vs_ce)
 
+1. **A Broad Study on the Transferability of Visual Representations with Contrastive Learning** *Ashraful Islam, Chun-Fu Chen, Rameswar Panda, Leonid Karlinsky, Richard Radke, Rogerio Feris* `ICCV 2021` [[pdf]](https://arxiv.org/abs/2103.13517)
 
 1. **Poisoning and Backdooring Contrastive Learning** *Nicholas Carlini, Andreas Terzis* `ICLR 2022` [[pdf]](https://arxiv.org/abs/2106.09667)
 
@@ -324,7 +327,7 @@ Current NLP models heavily rely on effective representation learning algorithms.
 
 1. **Multi-Granularity Contrasting for Cross-Lingual Pre-Training** *Shicheng Li, Pengcheng Yang, Fuli Luo, Jun Xie* `Findings of ACL 2021` [[pdf]](https://aclanthology.org/2021.findings-acl.149.pdf)
 
-
+1. **InfoXLM: An Information-Theoretic Framework for Cross-Lingual Language Model Pre-Training** *Zewen Chi, Li Dong, Furu Wei, Nan Yang, Saksham Singhal, Wenhui Wang, Xia Song, Xian-Ling Mao, Heyan Huang, Ming Zhou* `NAACL 2021` [[pdf]](https://arxiv.org/abs/2007.07834) [[code]](https://aka.ms/infoxlm)
 
 ### Interpretability and Explainability
 
