@@ -415,6 +415,8 @@ Current NLP models heavily rely on effective representation learning algorithms.
 
 ### Vision-and-Language
 
+1. **Language Models Can See: Plugging Visual Controls in Text Generation** *Yixuan Su, Tian Lan, Yahui Liu, Fangyu Liu, Dani Yogatama, Yan Wang, Lingpeng Kong, Nigel Collier* `arXiv` [[pdf]](https://arxiv.org/abs/2205.02655) [[code]](https://github.com/yxuansu/magic)
+
 1. **Counterfactual Contrastive Learning for Weakly-Supervised Vision-Language Grounding** *Zhu Zhang, Zhou Zhao, Zhijie Lin, Jieming Zhu, Xiuqiang He* `NeurIPS 2020` [[pdf]](https://papers.nips.cc/paper/2020/file/d27b95cac4c27feb850aaa4070cc4675-Paper.pdf)
 
 1. **UNIMO: Towards Unified-Modal Understanding and Generation via Cross-Modal Contrastive Learning** *Wei Li, Can Gao, Guocheng Niu, Xinyan Xiao, Hao Liu, Jiachen Liu, Hua Wu, Haifeng Wang* `ACL 2021` [[pdf]](https://arxiv.org/abs/2012.15409) [[code]](https://github.com/PaddlePaddle/Research/tree/master/NLP/UNIMO)
