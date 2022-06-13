@@ -192,6 +192,9 @@ Current NLP models heavily rely on effective representation learning algorithms.
 
 1. **Incorporating Hierarchy into Text Encoder: a Contrastive Learning Approach for Hierarchical Text Classification** *Zihan Wang, Peiyi Wang, Lianzhe Huang, Xin Sun, Houfeng Wang* `ACL 2022` [[pdf]](https://aclanthology.org/2022.acl-long.491/)
 
+1. **Label Anchored Contrastive Learning for Language Understanding** *Zhenyu Zhang, Yuming Zhao, Meng Chen, Xiaodong He* `NAACL 2022` [[pdf]](https://arxiv.org/abs/2205.10227)
+
+1. **Batch-Softmax Contrastive Loss for Pairwise Sentence Scoring Tasks** *Anton Chernyavskiy, Dmitry Ilvovsky, Pavel Kalinin, Preslav Nakov* `NAACL 2022` [[pdf]](https://arxiv.org/abs/2110.15725)
 
 ### Sentence Embeddings and Phrase Embeddings
 
@@ -245,6 +248,10 @@ Current NLP models heavily rely on effective representation learning algorithms.
 
 1. **UCTopic: Unsupervised Contrastive Learning for Phrase Representations and Topic Mining** *Jiacheng Li, Jingbo Shang, Julian McAuley* `ACL 2022` [[pdf]](https://aclanthology.org/2022.acl-long.426/)
 
+1. **EASE: Entity-Aware Contrastive Learning of Sentence Embedding** *Sosuke Nishikawa, Ryokan Ri, Ikuya Yamada, Yoshimasa Tsuruoka, Isao Echizen* `NAACL 2022` [[pdf]](https://arxiv.org/abs/2205.04260)
+
+1. **MCSE: Multimodal Contrastive Learning of Sentence Embeddings** *Miaoran Zhang, Marius Mosbach, David Ifeoluwa Adelani, Michael A. Hedderich, Dietrich Klakow* `NAACL 2022` [[pdf]]()
+
 ### Information Extraction
 
 1. **ERICA: Improving Entity and Relation Understanding for Pre-trained Language Models via Contrastive Learning** *Yujia Qin, Yankai Lin, Ryuichi Takanobu, Zhiyuan Liu, Peng Li, Heng Ji, Minlie Huang, Maosong Sun, Jie Zhou* `ACL 2021` [[pdf]](https://arxiv.org/abs/2012.15022) [[code]](https://github.com/thunlp/ERICA)
@@ -261,6 +268,10 @@ Current NLP models heavily rely on effective representation learning algorithms.
 
 1. **HiCLRE: A Hierarchical Contrastive Learning Framework for Distantly Supervised Relation Extraction** *Dongyang Li, Taolin Zhang, Nan Hu, Chengyu Wang, Xiaofeng He* `Findings of ACL 2022` [[pdf]](https://aclanthology.org/2022.findings-acl.202/)
 
+1. **HiURE: Hierarchical Exemplar Contrastive Learning for Unsupervised Relation Extraction** *Shuliang Liu, Xuming Hu, Chenwei Zhang, Shu’ang Li, Lijie Wen, Philip S. Yu* `NAACL 2022` [[pdf]](https://arxiv.org/abs/2205.02225)
+
+1. **Label Refinement via Contrastive Learning for Distantly-Supervised Named Entity Recognition** *Huaiyuan Ying, Shengxuan Luo, Tiantian Dang, Sheng Yu* `Findings of NAACL 2022` [[pdf]]()
+
 ### Sequence Labeling
 1. **Contrastive Estimation: Training Log-Linear Models on Unlabeled Data** *Noah A. Smith, Jason Eisner* `ACL 2005` [[pdf]](https://aclanthology.org/P05-1044.pdf)
 
@@ -274,6 +285,10 @@ Current NLP models heavily rely on effective representation learning algorithms.
 
 1. **Improving Word Translation via Two-Stage Contrastive Learning** *Yaoyiran Li, Fangyu Liu, Nigel Collier, Anna Korhonen, Ivan Vulić* `ACL 2022` [[pdf]](https://aclanthology.org/2022.acl-long.299/)
 
+1. **When do Contrastive Word Alignments Improve Many-to-many Neural Machine Translation?** *Zhuoyuan Mao, Chenhui Chu, Raj Dabre, Haiyue Song, Zhen Wan, Sadao Kurohashi* `Findings of NAACL 2022` [[pdf]](https://arxiv.org/abs/2204.12165)
+
+1. **CoCoA-MT: A Dataset and Benchmark for Contrastive Controlled MT with Application to Formality** *Maria Nadejde, Anna Currey, Benjamin Hsu, Xing Niu, Georgiana Dinu, Marcello Federico* `Findings of NAACL 2022` [[pdf]](https://arxiv.org/abs/2205.04022)
+
 ### Question Answering 
 
 1. **Dense Passage Retrieval for Open-Domain Question Answering** *Vladimir Karpukhin, Barlas Oğuz, Sewon Min, Patrick Lewis, Ledell Wu, Sergey Edunov, Danqi Chen, Wen-tau Yih* `EMNLP 2020` [[pdf]](https://arxiv.org/abs/2004.04906) [[code]](https://github.com/facebookresearch/DPR)
@@ -283,6 +298,10 @@ Current NLP models heavily rely on effective representation learning algorithms.
 1. **xMoCo: Cross Momentum Contrastive Learning for Open-Domain Question Answering** *Nan Yang, Furu Wei, Binxing Jiao, Daxin Jiang, Linjun Yang* `ACL 2021` [[pdf]](https://aclanthology.org/2021.acl-long.477.pdf)
 
 1. **Contrastive Domain Adaptation for Question Answering using Limited Text Corpora** *Zhenrui Yue, Bernhard Kratzwald, Stefan Feuerriegel* `EMNLP 2021` [[pdf]](https://arxiv.org/abs/2108.13854) [[code]](https://github.com/Yueeeeeeee/CAQA)
+
+1. **To Answer or Not To Answer? Improving Machine Reading Comprehension Model with Span-based Contrastive Learning** *Yunjie Ji, Liangyu Chen, Chenxiao Dou, Baochang Ma, Xiangang Li* `Findings of NAACL 2022` [[pdf]]()
+
+1. **Seeing the wood for the trees: a contrastive regularization method for the low-resource Knowledge Base Question Answering** *Junping Liu, Shijie Mei, Xinrong Hu, Xun Yao, JACK Yang, Yi Guo* `Findings of NAACL 2022` [[pdf]]()
 
 ### Summarization
 
@@ -342,12 +361,17 @@ Current NLP models heavily rely on effective representation learning algorithms.
 
 1. **Bi-Granularity Contrastive Learning for Post-Training in Few-Shot Scene** *Ruikun Luo, Guanhuan Huang, Xiaojun Quan* `Findings of ACL 2021` [[pdf]](https://arxiv.org/abs/2106.02327)
 
+1. **Contrastive Learning for Prompt-based Few-shot Language Learners** *Yiren Jian, Chongyang Gao, Soroush Vosoughi* `NAACL 2022` [[pdf]](https://arxiv.org/abs/2205.01308)
+
+1. **Zero-Shot Event Detection Based on Ordered Contrastive Learning and Prompt-Based Prediction** *Senhui Zhang, Tao Ji, Wendi Ji, Xiaoling Wang* `Findings of NAACL 2022` [[pdf]]()
+
+1. **RCL: Relation Contrastive Learning for Zero-Shot Relation Extraction** *Shusen Wang, Bosen Zhang, Yajing Xu, Yanan Wu, Bo Xiao* `Findings of NAACL 2022` [[pdf]]()
 
 ### Contrastive Pretraining
 
 1. **COCO-LM: Correcting and Contrasting Text Sequences for Language Model Pretraining** *Yu Meng, Chenyan Xiong, Payal Bajaj, Saurabh Tiwary, Paul Bennett, Jiawei Han, Xia Song* `NeurIPS 2021` [[pdf]](https://arxiv.org/abs/2102.08473) [[code]](https://github.com/microsoft/COCO-LM)
 
-1. **TaCL: Improving BERT Pre-training with Token-aware Contrastive Learning** *Yixuan Su, Fangyu Liu, Zaiqiao Meng, Tian Lan, Lei Shu, Ehsan Shareghi, Nigel Collier* `arXiv` [[pdf]](https://arxiv.org/abs/2111.04198) [[code]](https://github.com/yxuansu/TaCL)
+1. **TaCL: Improving BERT Pre-training with Token-aware Contrastive Learning** *Yixuan Su, Fangyu Liu, Zaiqiao Meng, Tian Lan, Lei Shu, Ehsan Shareghi, Nigel Collier* `Findings of NAACL 2022` [[pdf]](https://arxiv.org/abs/2111.04198) [[code]](https://github.com/yxuansu/TaCL)
 
 1. **CLEAR: Contrastive Learning for Sentence Representation** *Zhuofeng Wu, Sinong Wang, Jiatao Gu, Madian Khabsa, Fei Sun, Hao Ma* `arXiv` [[pdf]](https://arxiv.org/abs/2012.15466)
 
@@ -495,10 +519,26 @@ Current NLP models heavily rely on effective representation learning algorithms.
 
 1. **KNN-Contrastive Learning for Out-of-Domain Intent Classification** *Yunhua Zhou, Peiju Liu, Xipeng Qiu* `ACL 2022` [[pdf]](https://aclanthology.org/2022.acl-long.352/)
 
+1. **Cross-modal Contrastive Learning for Speech Translation** *Rong Ye, Mingxuan Wang, Lei Li* `NAACL 2022` [[pdf]](https://arxiv.org/abs/2205.02444)
 
+1. **Revisit Overconfidence for OOD Detection: Reassigned Contrastive Learning with Adaptive Class-dependent Threshold** *Yanan Wu, Keqing He, Yuanmeng Yan, QiXiang Gao, Zhiyuan Zeng, Fujia Zheng, Lulu Zhao, Huixing Jiang, Wei Wu, Weiran Xu* `NAACL 2022` [[pdf]]()
 
+1. **Contrastive Representation Learning for Cross-Document Coreference Resolution of Events and Entities** *Benjamin Hsu, Graham Horwood* `NAACL 2022` [[pdf]](https://arxiv.org/abs/2205.11438)
 
+1. **Domain Confused Contrastive Learning for Unsupervised Domain Adaptation** *Quanyu Long, Tianze Luo, Wenya Wang, Sinno Pan* `NAACL 2022` [[pdf]]()
 
+1. **Intent Detection and Discovery from User Logs via Deep Semi-Supervised Contrastive Clustering** *Rajat Kumar, Mayur Patidar, VAIBHAV VARSHNEY, Lovekesh Vig, Gautam Shroff
+* `NAACL 2022` [[pdf]]()
+
+1. **Detect Rumors in Microblog Posts for Low-Resource Domains via Adversarial Contrastive Learning** *Hongzhan Lin, Jing Ma, Liangliang Chen, Zhiwei Yang, Mingfei Cheng, Guang Chen* `Findings of NAACL 2022` [[pdf]](https://arxiv.org/abs/2204.08143)
+
+1. **CLMLF:A Contrastive Learning and Multi-Layer Fusion Method for Multimodal Sentiment Detection** *Zhen Li, Bing Xu, Conghui Zhu, Tiejun Zhao* `Findings of NAACL 2022` [[pdf]](https://arxiv.org/abs/2204.05515)
+
+1. **Prompt Augmented Generative Replay via Supervised Contrastive Learning for Lifelong Intent Detection** *VAIBHAV VARSHNEY, Mayur Patidar, Rajat Kumar, Lovekesh Vig, Gautam Shroff* `Findings of NAACL 2022` [[pdf]]()
+
+1. **CODE-MVP: Learning to Represent Source Code from Multiple Views with Contrastive Pre-Training** *Xin Wang, Yasheng Wang, Yao Wan, Jiawei Wang, Pingyi Zhou, Li Li, Hao Wu, Jin Liu* `Findings of NAACL 2022` [[pdf]](https://arxiv.org/abs/2205.02029)
+
+1. **Self-Supervised Contrastive Learning with Adversarial Perturbations for Defending Word Substitution-based Attacks** *Zhao Meng, Yihan Dong, Mrinmaya Sachan, Roger Wattenhofer* `Findings of NAACL 2022` [[pdf]](https://arxiv.org/abs/2107.07610)
 
 ## Contributor
 Please contact [Rui Zhang](https://ryanzhumich.github.io/) if you want to add any references!
