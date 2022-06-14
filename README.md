@@ -45,7 +45,11 @@ Current NLP models heavily rely on effective representation learning algorithms.
 
 * **Contrastive Representation Learning** *Lilian Weng* [[blog]](https://lilianweng.github.io/posts/2021-05-31-contrastive/)
 
+* **Understanding Contrastive Learning** *Ekin Tiu* [[blog]](https://towardsdatascience.com/understanding-contrastive-learning-d5b19fd96607)
+
 * **Contrastive Self-Supervised Learning** *Ankesh Anand* [[blog]](https://ankeshanand.com/blog/2020/01/26/contrative-self-supervised-learning.html)
+
+* **The Beginner’s Guide to Contrastive Learning** *Rohit Kundu* [[blog]](https://www.v7labs.com/blog/contrastive-learning-guide)
 
 * **Triplet Loss and Online Triplet Mining in TensorFlow** *Olivier Moindrot* [[blog]](https://omoindrot.github.io/triplet-loss)
 
