@@ -546,5 +546,5 @@ Current NLP models heavily rely on effective representation learning algorithms.
 
 1. **Self-Supervised Contrastive Learning with Adversarial Perturbations for Defending Word Substitution-based Attacks** *Zhao Meng, Yihan Dong, Mrinmaya Sachan, Roger Wattenhofer* `Findings of NAACL 2022` [[pdf]](https://arxiv.org/abs/2107.07610)
 
-## Contributor
-Please contact [Rui Zhang](https://ryanzhumich.github.io/) if you want to add any references!
+<!-- ## Contributor
+Please contact [Rui Zhang](https://ryanzhumich.github.io/) if you want to add any references! -->
