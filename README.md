@@ -31,7 +31,7 @@ Current NLP models heavily rely on effective representation learning algorithms.
 
 ## 1. Tutorial and Survey
 
-* **Contrastive Data and Learning for Natural Language Processing** *Rui Zhang, Yangfeng Ji, Yue Zhang, Rebecca J. Passonneau* `NAACL 2022 Tutorial` [[website]](https://contrastive-nlp-tutorial.github.io/)
+* **Contrastive Data and Learning for Natural Language Processing** *Rui Zhang, Yangfeng Ji, Yue Zhang, Rebecca J. Passonneau* `NAACL 2022 Tutorial` [[website]](https://contrastive-nlp-tutorial.github.io/) [[slides]](https://contrastive-nlp-tutorial.github.io/files/contrastive_nlp_tutorial.pdf) [[video]](https://youtu.be/iqzJybIk4Go)
 
 * **A Primer on Contrastive Pretraining in Language Processing: Methods, Lessons Learned and Perspectives** *Nils Rethmeier, Isabelle Augenstein* [[pdf]](https://arxiv.org/abs/2102.12982)
 
