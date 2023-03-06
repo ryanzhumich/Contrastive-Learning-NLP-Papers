@@ -199,6 +199,8 @@ Current NLP models heavily rely on effective representation learning algorithms.
 
 1. **Batch-Softmax Contrastive Loss for Pairwise Sentence Scoring Tasks** *Anton Chernyavskiy, Dmitry Ilvovsky, Pavel Kalinin, Preslav Nakov* `NAACL 2022` [[pdf]](https://arxiv.org/abs/2110.15725)
 
+1. **Conditional Supervised Contrastive Learning for Fair Text Classification** *Jianfeng Chi, William Shand, Yaodong Yu, Kai-Wei Chang, Han Zhao, Yuan Tian* `EMNLP Findings 2022` [[pdf]](https://arxiv.org/abs/2205.11485)
+
 ### Sentence Embeddings and Phrase Embeddings
 
 1. **Towards Universal Paraphrastic Sentence Embeddings** *John Wieting, Mohit Bansal, Kevin Gimpel, Karen Livescu* `ICLR 2016` [[pdf]](https://arxiv.org/abs/1511.08198) [[code]](https://github.com/jwieting/iclr2016)
